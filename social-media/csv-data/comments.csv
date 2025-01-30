@@ -1,0 +1,1 @@
+id,post_id,user_id,parent_comment_id,comment,created_at,updated_at,is_deleted,is_child,total_edits
