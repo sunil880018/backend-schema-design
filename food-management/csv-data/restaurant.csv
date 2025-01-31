@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,location,rating,contact_number,created_at
+1,Apple Cinnamon Breakfast Muffins,"6114 Havana Trail, Jeffersonville, Indiana, United States, 47134",0,(812) 064-0573,2024-01-29 12:51:07
+2,Buffalo Sauce,"9597 Allende Avenue, Buffalo, New York, United States, 14263",2,(716) 520-1061,2024-01-29 12:58:25
+3,High-Waisted Skirt,"39 Davis Terrace, Anchorage, Alaska, United States, 99599",0,(907) 414-1688,2024-01-29 12:59:46
+4,Mint Chocolate Chip Ice Cream,"861 Harleston Street, Berkeley, California, United States, 94712",2,(510) 461-7341,2024-01-29 13:04:37
+5,Balsamic Vinaigrette,"967 Cloverdale Court, Fresno, California, United States, 93715",3,(559) 679-0810,2024-01-29 13:05:50
+6,Non-Stick Baking Sheets,"277 Iglesia Street, Mobile, Alabama, United States, 36641",0,(251) 763-3921,2024-01-29 13:10:49
+7,Portable Phone Charger,"3205 Katherine Place, Washington, District of Columbia, United States, 20337",2,(202) 601-2463,2024-01-29 13:17:36
+8,Teriyaki Beef Strips,"1593 Rio Grande Avenue, Delray Beach, Florida, United States, 33448",4,(561) 005-8925,2024-01-29 13:20:50
+9,LED Christmas Lights,"7812 Shelton Street, Garland, Texas, United States, 75044",0,(214) 039-9330,2024-01-29 13:29:06
+10,Beef Chili,"3654 Trujillo Street, Fresno, California, United States, 93762",4,(559) 746-3638,2024-01-29 13:34:58
+11,Frozen Vegetarian Pizza,"12988 Broome Court, Colorado Springs, Colorado, United States, 80935",0,(719) 219-4001,2024-01-29 13:39:28
+12,Maple Cinnamon Almonds,"1001 Davidson Avenue, Shawnee Mission, Kansas, United States, 66220",3,(913) 057-5989,2024-01-29 13:46:02
+13,Stainless Steel Grater,"2533 Bartram Loop, Indianapolis, Indiana, United States, 46202",3,(765) 066-9767,2024-01-29 13:53:13
+14,Crispy Rice Treats,"6230 Lozano Avenue, San Antonio, Texas, United States, 78291",4,(210) 811-9885,2024-01-29 14:00:47
+15,Magnetic Spice Containers,"6011 Amberly Court, Birmingham, Alabama, United States, 35295",2,(205) 120-4924,2024-01-29 14:07:26
+16,Comfort Flats,"13607 Honeysuckle Avenue, Portland, Oregon, United States, 97221",2,(503) 949-1692,2024-01-29 14:16:17
+17,Kale and Quinoa Salad,"177 Avenida Central, Boston, Massachusetts, United States, 02208",2,(617) 845-9684,2024-01-29 14:24:36
+18,Classic Pesto Sauce,"11013 Haretison Avenue, Washington, District of Columbia, United States, 20073",4,(202) 563-5704,2024-01-29 14:31:48
+19,Faux Fur Coat,"6934 Tarrson Blvd., New York City, New York, United States, 10184",4,(212) 035-4927,2024-01-29 14:37:11
+20,Gingerbread House Kit,"3066 Jonesville Terrace, Los Angeles, California, United States, 90005",0,(323) 724-3477,2024-01-29 14:47:09
+21,Mediterranean Chickpea Salad,"9937 Robbins Road, Akron, Ohio, United States, 44315",0,(330) 033-1148,2024-01-29 14:54:20
+22,Cinnamon Sugar Donuts,"1216 Mccabe Street, Baton Rouge, Louisiana, United States, 70836",2,(225) 253-2993,2024-01-29 14:56:21
+23,Kettle Corn Popcorn,"10199 Laine Terrace, Washington, District of Columbia, United States, 20546",4,(202) 924-2304,2024-01-29 15:03:55
+24,Pineapple Coconut Rice Mix,"6636 Maybank Loop, Evansville, Indiana, United States, 47705",4,(812) 422-1897,2024-01-29 15:08:59
+25,Lentil Vegetable Stew,"3384 Jubilee Court, Pittsburgh, Pennsylvania, United States, 15261",3,(412) 631-2917,2024-01-29 15:12:16
+26,Shoe Organizer,"5883 Catalani Lane, Detroit, Michigan, United States, 48242",2,(248) 848-5566,2024-01-29 15:17:05
+27,Crispy Onion Rings,"11460 Turnberry Lane, Young America, Minnesota, United States, 55564",1,(952) 182-6323,2024-01-29 15:22:33
+28,Rain Jacket,"7365 Ichabod Way, Detroit, Michigan, United States, 48211",1,(810) 869-9156,2024-01-29 15:29:46
+29,Coffee Capsule Dispenser,"7890 Alcaraz Place, Fort Lauderdale, Florida, United States, 33325",2,(954) 895-1303,2024-01-29 15:35:50
+30,Cucumber Relish,"7339 Pleasant View Place, Trenton, New Jersey, United States, 08695",2,(609) 813-7255,2024-01-29 15:43:03
+31,Action Camera,"3697 Miranda Way, Charleston, South Carolina, United States, 29411",3,(843) 146-7535,2024-01-29 15:50:02
+32,Reclining Camping Chair,"9032 Carmen Court, New York City, New York, United States, 10260",3,(212) 416-3358,2024-01-29 15:52:22
+33,Two-Tone Windbreaker,"8028 Rischitelli Place, Cincinnati, Ohio, United States, 45254",0,(513) 336-0910,2024-01-29 15:54:29
+34,Vegan Chocolate Cake Mix,"11620 Monterey Lane, Bowie, Maryland, United States, 20719",4,(240) 301-1147,2024-01-29 15:58:03
+35,Set of Decorative Storage Bins,"9961 Iverson Court, Lubbock, Texas, United States, 79410",0,(806) 468-4962,2024-01-29 16:02:46
+36,Organic Green Apples,"10342 Burgos Drive, Birmingham, Alabama, United States, 35210",4,(205) 912-0921,2024-01-29 16:06:33
+37,Whole Wheat Pita Bread,"7211 Blackberry Avenue, Dallas, Texas, United States, 75246",2,(214) 935-7250,2024-01-29 16:15:51
+38,Chocolate Dipped Fruit,"13389 Laguna Lane, Kansas City, Missouri, United States, 64199",2,(816) 299-3828,2024-01-29 16:19:23
+39,Smartphone Projector Kit,"85 Creighton Loop, Fredericksburg, Virginia, United States, 22405",0,(540) 272-2744,2024-01-29 16:21:09
+40,Weighted Jump Rope,"12487 Baton Place, Phoenix, Arizona, United States, 85040",3,(602) 309-1104,2024-01-29 16:29:15
+41,Dog Collar,"8045 Pensacola Place, San Antonio, Texas, United States, 78285",1,(210) 552-2786,2024-01-29 16:35:46
+42,Lentil Vegetable Stew,"13997 Tarrson Blvd., Beaufort, South Carolina, United States, 29905",3,(843) 749-2979,2024-01-29 16:37:18
+43,Fitness Tracker Band,"589 Baysinger Path, Missoula, Montana, United States, 59806",0,(406) 152-7970,2024-01-29 16:42:19
+44,Asian Stir-Fry Vegetables,"13604 Draughton Court, Nashville, Tennessee, United States, 37215",3,(615) 330-7315,2024-01-29 16:48:16
+45,Outdoor Sports Backpack,"11603 Broaderick Court, Orange, California, United States, 92668",0,(858) 243-2707,2024-01-29 16:52:45
+46,Eco-Friendly Cleaning Cloths,"8345 Leicester Terrace, Boise, Idaho, United States, 83757",0,(208) 349-9255,2024-01-29 16:58:33
+47,Multi-Tool,"12026 Pearlman Way, Levittown, Pennsylvania, United States, 19058",2,(267) 964-2432,2024-01-29 17:07:20
+48,Chocolate Covered Pretzels,"1495 Kerwood Loop, San Francisco, California, United States, 94126",3,(415) 803-6920,2024-01-29 17:11:03
+49,Toasted Coconut Granola,"5459 Burbank Lane, Gary, Indiana, United States, 46406",3,(219) 103-3373,2024-01-29 17:13:50
+50,Electric Heating Pad,"11214 Iron Wood Lane, Washington, District of Columbia, United States, 20442",0,(202) 156-5397,2024-01-29 17:21:41
+51,Classic Bagels,"2022 Booth Place, Lansing, Michigan, United States, 48930",1,(517) 513-4332,2024-01-29 17:27:10
+52,Digital Alarm Clock,"3210 De Silva Street, Charlotte, North Carolina, United States, 28263",4,(704) 548-0964,2024-01-29 17:29:33
+53,Non-Stick Grill Pan,"6004 Winterthur Loop, Newark, New Jersey, United States, 07104",1,(973) 464-6135,2024-01-29 17:30:54
+54,Smart WiFi Plug,"3300 Seyler Street, Austin, Texas, United States, 78726",0,(512) 200-0404,2024-01-29 17:34:22
+55,Pet Training Clicker,"3650 Guerard Avenue, Tucson, Arizona, United States, 85732",1,(520) 265-9851,2024-01-29 17:38:02
+56,Fridge Magnet Set,"7519 Boiling Springs Court, Paterson, New Jersey, United States, 07544",1,(862) 846-7046,2024-01-29 17:44:40
+57,Mediterranean Chickpea Bowl,"8447 Seagull Avenue, Brea, California, United States, 92822",3,(714) 706-3523,2024-01-29 17:51:19
+58,Solar String Lights,"8938 Keckonen Drive, Huntington Beach, California, United States, 92648",2,(714) 397-3458,2024-01-29 17:55:40
+59,Camera Lens Cleaning Kit,"12235 Bissell Trail, Muncie, Indiana, United States, 47306",4,(765) 956-6920,2024-01-29 18:03:04
+60,Balsamic Vinaigrette,"743 Lazdowski Way, Savannah, Georgia, United States, 31416",2,(912) 206-8050,2024-01-29 18:08:28
+61,Electric Opener for Jars and Bottles,"8985 Blickley Place, Albany, New York, United States, 12237",0,(518) 273-0946,2024-01-29 18:18:27
+62,Pecan Pie Filling,"871 Piper Place, Tacoma, Washington, United States, 98481",1,(253) 321-1683,2024-01-29 18:23:44
+63,Wireless Earbuds Case,"1103 Cindy Drive, Fresno, California, United States, 93750",0,(559) 825-8198,2024-01-29 18:26:16
+64,Pet Grooming Brush,"6129 Vapor Court, Charlotte, North Carolina, United States, 28289",2,(704) 209-0181,2024-01-29 18:33:56
+65,Pretzel Bites,"5162 Kelmscott Street, Columbia, South Carolina, United States, 29215",4,(803) 903-8590,2024-01-29 18:40:15
+66,Home Office Chair,"9392 Burger Court, Indianapolis, Indiana, United States, 46278",0,(317) 330-1497,2024-01-29 18:50:10
+67,Electric Heat Press Machine,"14652 Allston Court, Milwaukee, Wisconsin, United States, 53277",1,(414) 121-9075,2024-01-29 18:55:16
+68,Comfortable Jogger Pants,"994 La Quinta Place, Arlington, Texas, United States, 76011",3,(214) 564-8442,2024-01-29 19:03:59
+69,Scented Candle Set,"8478 Causey Court, Hot Springs National Park, Arkansas, United States, 71914",0,(501) 200-8172,2024-01-29 19:07:36
+70,Cauliflower Gnocchi,"11657 Hillcrest Drive, Boca Raton, Florida, United States, 33487",2,(561) 834-7008,2024-01-29 19:09:37
+71,Collapsible Water Bottle,"6095 Quarter Terrace, Sacramento, California, United States, 95894",3,(916) 955-4132,2024-01-29 19:12:48
+72,Gluten-Free Pancake Mix,"14829 Cervantes Place, London, Kentucky, United States, 40745",4,(606) 820-5383,2024-01-29 19:14:12
+73,Adjustable Dog Harness,"12180 Infinity Run, Saint Paul, Minnesota, United States, 55127",4,(651) 606-8937,2024-01-29 19:18:26
+74,Stylish Wide-Leg Trousers,"397 Gist Court, Atlanta, Georgia, United States, 30336",1,(404) 583-3818,2024-01-29 19:26:52
+75,Chia Seed Pudding,"3518 Guerra Avenue, Colorado Springs, Colorado, United States, 80940",2,(719) 380-1497,2024-01-29 19:36:48
+76,Almond Flour Cookies,"7387 Weston Manor Drive, Roanoke, Virginia, United States, 24004",3,(540) 036-2900,2024-01-29 19:43:43
+77,Ergonomic Mouse Pad with Wrist Support,"1814 Endicott Way, Bakersfield, California, United States, 93399",3,(661) 256-6117,2024-01-29 19:45:31
+78,Handmade Leather Wallet,"6470 Dartford Terrace, Herndon, Virginia, United States, 22070",3,(757) 348-5979,2024-01-29 19:50:35
+79,Over-the-Door Shoe Organizer,"7823 Markward Drive, Erie, Pennsylvania, United States, 16505",1,(814) 268-9356,2024-01-29 19:55:08
+80,Oven-Baked Potato Chips,"4852 Mila Loop, Jersey City, New Jersey, United States, 07310",1,(201) 875-6515,2024-01-29 20:00:49
+81,Frozen Mixed Berries,"2540 Mauldin Place, Kansas City, Missouri, United States, 64142",3,(816) 837-6573,2024-01-29 20:02:47
+82,Comfort Flats,"14257 Canary Place, Akron, Ohio, United States, 44393",1,(234) 847-3462,2024-01-29 20:10:24
+83,Electric Wax Warmer,"848 Monterey Lane, Winston Salem, North Carolina, United States, 27110",2,(336) 551-3300,2024-01-29 20:13:01
+84,Non-Stick Baking Sheet,"14018 Muirfield Place, Worcester, Massachusetts, United States, 01654",1,(508) 940-7406,2024-01-29 20:15:14
+85,Wall Planner,"11106 Roudell Way, El Paso, Texas, United States, 79940",2,(915) 203-2753,2024-01-29 20:24:24
+86,Jennifer's Amazing Lip Balm Kit,"8921 Tweedle Terrace, Atlanta, Georgia, United States, 30328",1,(770) 295-6996,2024-01-29 20:28:11
+87,Handcrafted Wooden Coasters,"8009 Windham Way, Flushing, New York, United States, 11355",2,(718) 405-8811,2024-01-29 20:35:11
+88,Classic Baseball Cap,"10223 Tall Pine Lane, Gary, Indiana, United States, 46406",3,(219) 004-5592,2024-01-29 20:39:42
+89,Vanilla Pudding Mix,"8686 Quartet Road, Jacksonville, Florida, United States, 32225",1,(904) 522-1862,2024-01-29 20:49:10
+90,High-Low Hem Tee,"7095 Harvey Lane, Greensboro, North Carolina, United States, 27415",4,(336) 727-0898,2024-01-29 20:52:01
+91,Dried Fruit Medley,"14527 Reyes Avenue, Charlotte, North Carolina, United States, 28272",1,(704) 958-8429,2024-01-29 21:00:39
+92,Electric Hot Pot,"12692 Harvest Court, Houston, Texas, United States, 77260",2,(713) 139-7011,2024-01-29 21:02:12
+93,Lentil Vegetable Curry,"4849 Corbett Drive, Washington, District of Columbia, United States, 20073",3,(202) 327-3907,2024-01-29 21:06:28
+94,Berries Medley,"9635 Frazier Way, Detroit, Michigan, United States, 48275",4,(313) 878-1965,2024-01-29 21:13:15
+95,Winter Knit Beanie,"6007 Hagood Loop, Phoenix, Arizona, United States, 85005",1,(602) 233-9594,2024-01-29 21:18:43
+96,Photo Album,"3873 Rosemont Loop, Baltimore, Maryland, United States, 21281",0,(410) 931-8291,2024-01-29 21:27:35
+97,Bamboo Charcoal Air Purifier Bags,"8557 Moncayo Avenue, Birmingham, Alabama, United States, 35242",3,(205) 964-6300,2024-01-29 21:29:18
+98,Brownie Bites,"8458 Misty Court, Honolulu, Hawaii, United States, 96825",3,(808) 177-5197,2024-01-29 21:35:38
+99,Hand Crank Blender,"13247 Rainbow Blvd., Tulsa, Oklahoma, United States, 74103",1,(918) 969-3950,2024-01-29 21:36:59
+100,Sour Cream,"3070 Blue Heron Avenue, Columbia, South Carolina, United States, 29225",2,(803) 899-9423,2024-01-29 21:45:50

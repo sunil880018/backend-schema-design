@@ -1,0 +1,101 @@
+food_id,food_name,category_id,price_per_unit,description
+1,Almond Butter Crunch Bar,82,1.99,Nutritious snack bar made with almond butter and protein.
+2,Portable Hand Warmer,78,24.99,Rechargeable hand warmer for cold weather comfort.
+3,Frozen Berry Blend,59,4.99,A mix of frozen berries for smoothies or desserts
+4,Pet Water Fountain,98,39.99,Automatic water fountain for pets with filtration.
+5,Savory Pumpkin Soup,93,3.89,Creamy pumpkin soup with spices
+6,Electric Milk Frother,63,19.99,Handheld frother for creating frothed milk for coffee.
+7,Electric Butter Churn,81,49.99,Automatic churner for making butter at home.
+8,Trendy Bomber Jacket,19,69.99,A fashion-forward bomber jacket to elevate your casual looks.
+9,Chocolate Avocado Pudding,82,4.99,Rich and creamy pudding made with ripe avocados and cocoa.
+10,Pumpkin Spice Creamer,4,3.79,A seasonal creamer that adds pumpkin spice flavor to coffee or tea.
+11,Ice Pack,19,8.99,Reusable gel ice pack for injuries and cooling.
+12,Wireless Charger Stand,44,24.99,Convenient charging stand for smartphones and devices.
+13,Asian Noodle Salad Kit,83,4.99,A pre-packaged salad kit with noodles and Asian-style dressing.
+14,Spicy BBQ Sauce,2,3.99,A tangy and spicy BBQ sauce that's perfect for grilling.
+15,Over-The-Door Shoe Organizer,97,25.99,Space-saving shoe organizer for tight spaces.
+16,Basil Lemonade,87,2.99,Refreshing basil-infused lemonade for a cool drink.
+17,Classic Pumps,69,64.99,Elegant classic pumps that add sophistication to any outfit.
+18,Classic White T-Shirt,34,19.99,A timeless wardrobe staple crafted from soft cotton with a perfect fit.
+19,Cheddar Cheese Slices,4,3.49,"Creamy cheddar cheese slices, perfect for sandwiches and snacks."
+20,Organic Almond Flour,26,6.99,Finely ground almonds for baking or cooking
+21,Floral Wrap Top,81,49.99,A feminine wrap top with a beautiful floral print.
+22,Smartphone Tripod,89,29.99,Adjustable tripod for smartphones and cameras.
+23,Smart Light Switch,32,29.99,Control lights remotely with this smart switch.
+24,Tailored Blazer,8,99.99,Sharp tailored blazer perfect for office wear and professional events.
+25,Magnetic Spice Jars,31,24.99,Convenient magnetic jars for easy spice storage.
+26,Pear and Gorgonzola Salad,67,5.49,"Fresh salad with pears, gorgonzola cheese, and nuts, perfect for lunch."
+27,Paprika,77,1.79,Rich and sweet paprika spice for seasoning.
+28,Granola,68,4.79,Crunchy and flavorful mix of oats and honey.
+29,Peach & Mango Salsa,87,4.49,"A zesty salsa made with peaches and mangos, great for chips."
+30,Mini Air Hockey Table,90,39.99,Fun tabletop air hockey for home or office.
+31,Banana Chips,69,1.99,"Crunchy and sweet banana chips, a great on-the-go snack."
+32,Travel Yoga Mat,49,34.99,Lightweight yoga mat for practicing on the go.
+33,Kettle Chip Variety Pack,91,3.99,A crunchy collection of flavored kettle chips in a convenient pack.
+34,Sliced Strawberries,31,4.99,Fresh sliced strawberries for toppings or snacking
+35,Electrolyte Water Bottle,85,34.99,Water bottle that tracks hydration levels and adds electrolytes.
+36,High-Speed Blender,3,99.99,Powerful blender for smoothies and soups.
+37,Emergency Preparedness Kit,80,99.99,Complete kit for emergency situations including food and water.
+38,Ceramic Knife Set,9,39.99,Set of ceramic knives for precision slicing.
+39,Cilantro Lime Rice,97,2.99,"Easy-to-prepare rice with cilantro and lime flavors, great as a side."
+40,Pet Training Pads,77,24.99,Absorbent training pads for puppies and kittens.
+41,Strawberry Rhubarb Jam,52,4.29,"A sweet and tart jam, perfect on toast or in desserts."
+42,Blue Denim Jeans,70,49.99,Classic fit blue jeans with a slight stretch for comfort and durability.
+43,Adjustable Laptop Stand,47,29.99,Ergonomic stand for laptops to improve posture while working.
+44,Over-the-Door Shoe Organizer,69,22.99,Space-saving solution to store shoes and keep them organized.
+45,Thai Peanut Noodles,49,4.99,Noodles tossed in a spicy Thai peanut sauce.
+46,Electric Blanket,34,59.99,Extra soft electric blanket with adjustable heat settings.
+47,Basil-infused Olive Oil,63,6.99,Extra virgin olive oil infused with fresh basil.
+48,Pasta Primavera,50,4.99,Frozen vegetable primavera for quick meals.
+49,Wall-Mounted Bookshelf,62,39.99,Floating bookshelf to display your favorite books.
+50,Lemon Herb Chicken,94,7.49,Marinated chicken grilled with lemon and herbs.
+51,Cheesy Broccoli Soup Mix,7,2.99,Just add water for a hearty cheese and broccoli soup in minutes.
+52,Multi-Layer Food Steamer,36,39.99,Stackable steamers for healthy cooking of vegetables and seafood.
+53,Garden Tool Set,73,34.99,Complete set of gardening tools for all your needs.
+54,Baking Soda,59,0.99,Essential ingredient for baking and cooking.
+55,Adjustable Kitchen Broom Stand,9,14.99,Space-saving broom holder for organized cleaning supplies.
+56,Wireless Earbud Silicone Covers,67,9.99,Soft silicone earbud covers for comfort and fit.
+57,Kids' Gardening Tools Set,58,22.99,Fun and colorful gardening tools designed for children.
+58,Beef Tacos,84,5.49,"Pre-seasoned beef mix for delicious tacos, just heat and serve."
+59,Portable Folding Picnic Table,98,69.99,Easy-to-set-up picnic table for outdoor dining.
+60,Kale Chips,56,3.99,"Healthy, crunchy kale chips, a nutritious snack."
+61,Buffalo Stilton Cheese,35,8.99,Spicy blue cheese with a hint of buffalo flavor.
+62,Organic Quinoa,80,4.29,Nutritious organic quinoa for salads or sides
+63,Chocolate Chip Cookie Dough,22,5.49,Ready-to-bake cookie dough packed with chocolate chips.
+64,Sesame Garlic Stir-Fry Sauce,52,2.79,A flavorful sauce for stir-frying vegetables and meats.
+65,Digital Drawing Tablet,46,79.99,Tablet for digital drawing and illustration work.
+66,Sweet Potato Noodles,46,3.79,"Pasta alternative made from sweet potatoes, gluten-free and rich in flavor."
+67,Cauliflower Crust Pizza,4,7.99,A gluten-free pizza crust made from cauliflower.
+68,Caribbean Jerk Marinade,55,3.79,A spicy marinade perfect for chicken and fish.
+69,Chicken Salad Kit,25,5.99,All-in-one kit for making delicious chicken salad.
+70,Adjustable Kitchen Broom Stand,60,14.99,Space-saving broom holder for organized cleaning supplies.
+71,Portable Camping Shower,36,39.99,Convenient shower system for camping and outdoor activities.
+72,Chili Lime Seasoning,29,2.99,Zesty seasoning great for tacos and grilling.
+73,Gluten-Free Biscuits,22,3.79,Fluffy biscuits made without gluten
+74,Decorative Throw Blanket,93,39.99,Soft throw blanket for cozy home decor.
+75,Non-Toxic Concrete Sealer,100,39.99,Eco-friendly sealer for protecting concrete surfaces.
+76,Thai Green Curry Paste,24,2.49,A rich curry paste for making authentic Thai green curry at home.
+77,Outdoor Camping Hammock,27,29.99,Lightweight and durable hammock for relaxing in nature.
+78,Electric Rice Cooker with Steamer,7,49.99,Cook rice and steam vegetables simultaneously for healthy meals.
+79,Motorcycle Phone Mount,19,14.99,Universal mount for smartphones on motorcycles.
+80,Raspberry Lemonade Mix,27,3.99,"A refreshing drink mix that combines sweet raspberries and tart lemons, perfect for summer."
+81,Apple Sauce,64,2.19,"Unsweetened apple sauce, great for snacks or baking."
+82,Kids' Art Supplies Kit,6,29.99,"Complete kit with crayons, markers, and paper for young artists."
+83,Protein Powder,43,44.99,High-quality whey protein powder for muscle recovery.
+84,Cheddar & Bacon Potato Skins,46,7.49,Gourmet potato skins loaded with cheddar cheese and bacon.
+85,Scent Diffuser Oil,39,14.99,Essential oil blends for a soothing atmosphere in your home.
+86,Graphic Print Leggings,18,29.99,"Trendy leggings with a unique graphic print, versatile for workouts and casual wear."
+87,Vegetarian Sausage Links,38,5.89,Plant-based sausage links with spices and herbs.
+88,Vegetable Spring Rolls,90,6.49,Crispy spring rolls filled with vegetables
+89,Luxury Rolling Makeup Case,63,99.99,Stylish and spacious case for makeup and beauty products.
+90,Basketball,48,29.99,Official size basketball for indoor and outdoor play.
+91,Sports Windbreaker,3,44.99,Lightweight windbreaker for outdoor activities.
+92,Herbed Chicken Breast,39,7.99,"Marinated chicken breast seasoned with herbs, ready for grilling."
+93,Portable Hammock,28,27.99,Lightweight hammock for easy setup anywhere.
+94,Hummus,38,4.29,"Creamy chickpea dip, perfect for veggies or pita."
+95,LED Table Lamp,46,29.99,Modern LED table lamp with touch control.
+96,Kids' Building Blocks,51,19.99,Colorful building blocks for creative play.
+97,Maple Bacon Popcorn,59,3.49,Savory popcorn flavored with maple syrup and bacon bits.
+98,Spicy Chicken Wings,11,9.99,"Wide range of flavored wings, perfect for parties or casual snacking."
+99,Saffron Rice Mix,99,2.99,Flavorful rice mix with saffron and spices.
+100,Electric Wax Warmer,53,22.99,Wax warmer for creating a soothing atmosphere with fragrances.

@@ -1,0 +1,101 @@
+customer_id,customer_name,contact_number,email,address,created_at
+1,Moselle Chatters,(915) 415-9412,moselle.chatters@gmail.com,"12876 Staunton Street, El Paso, Texas, United States, 88584",2024-02-25 19:59:11
+2,Adria Murphey,(318) 850-4997,adria.murphey@hotmail.com,"6882 Trussler Terrace, Boston, Massachusetts, United States, 02104",2024-09-24 13:51:56
+3,Marcela Slite,(703) 435-2627,marcela.slite@yahoo.com,"14119 Mcdonald Court, Reston, Virginia, United States, 20195",2024-07-16 05:33:26
+4,Maxy Hourican,(913) 716-7319,maxy.hourican@yahoo.com,"6242 Loomis Lane, Shawnee Mission, Kansas, United States, 66225",2024-12-25 09:02:42
+5,Templeton Saxton,(281) 863-5167,templeton.saxton@bluewin.ch,"13633 Countryside Path, Spring, Texas, United States, 77386",2024-03-20 10:01:34
+6,Yasmin Durning,(915) 067-6171,yasmin.durning@hotmail.com,"12763 Oberlin Court, El Paso, Texas, United States, 79999",2024-09-02 00:26:01
+7,Cristy Gregory,(256) 362-0164,cristy.gregory@hotmail.com,"65 Oporto Drive, Anniston, Alabama, United States, 36205",2024-04-10 21:12:52
+8,Janina Yglesia,(517) 710-7406,janina.yglesia@hotmail.com,"7497 Maury Court, Lansing, Michigan, United States, 48901",2024-11-13 12:41:20
+9,Woodman Menaul,(915) 233-3344,woodman.menaul@yahoo.com,"12770 Bluffton Road, El Paso, Texas, United States, 88514",2024-04-21 03:47:15
+10,Valentino Lumox,(505) 290-7739,valentino.lumox@yahoo.com,"9069 San Jose Place, Albuquerque, New Mexico, United States, 87140",2024-08-13 21:26:15
+11,Katine Patifield,(303) 253-5234,katine.patifield@msn.com,"2452 Judge Place, Aurora, Colorado, United States, 80044",2025-01-04 07:38:13
+12,Carita Elmar,(561) 015-6151,carita.elmar@hotmail.com,"3942 Justice Lane, Lake Worth, Florida, United States, 33467",2024-12-24 19:01:40
+13,Elva McVicker,(502) 387-4933,elva.mcvicker@hotmail.fr,"6538 Torres Place, Louisville, Kentucky, United States, 40256",2024-03-27 08:49:47
+14,Aime Carstairs,(704) 922-4525,aime.carstairs@gmail.com,"8420 Churchill Downs, Charlotte, North Carolina, United States, 28235",2024-02-27 08:56:37
+15,Katerine Heffer,(410) 460-0618,katerine.heffer@hotmail.com,"7134 Red Ash Place, Baltimore, Maryland, United States, 21216",2024-08-04 09:46:12
+16,Malcolm Hamel,(971) 567-0627,malcolm.hamel@hotmail.com,"10980 Del Mar Drive, Portland, Oregon, United States, 97201",2024-07-27 17:53:23
+17,Chelsae Di Giorgio,(405) 612-7899,chelsae.digiorgio@yahoo.com,"10758 Del Toro Drive, Oklahoma City, Oklahoma, United States, 73109",2024-09-06 20:22:39
+18,Paulie Normabell,(202) 882-6234,paulie.normabell@bol.com.br,"3347 Seabrook Court, Washington, District of Columbia, United States, 20525",2024-10-19 15:48:38
+19,Cilka Preskett,(214) 579-4507,cilka.preskett@gmail.com,"12545 Doral Circle, Dallas, Texas, United States, 75323",2024-10-23 09:26:01
+20,Meggi Mcimmie,(763) 701-3748,meggi.mcimmie@hotmail.com,"7751 Chalmer Terrace, Monticello, Minnesota, United States, 55585",2024-09-29 19:45:29
+21,Giordano Hugk,(682) 277-8179,giordano.hugk@yahoo.com,"12967 Alesio Street, Fort Worth, Texas, United States, 76198",2024-09-30 02:30:30
+22,Pooh Pover,(518) 819-3181,pooh.pover@yahoo.com,"10088 Bartelson Terrace, Schenectady, New York, United States, 12325",2024-03-18 01:42:31
+23,Homerus Boote,(407) 884-0870,homerus.boote@hotmail.com,"4262 Palermo Place, Orlando, Florida, United States, 32825",2024-05-29 22:30:28
+24,Nevil Leidl,(702) 762-2303,nevil.leidl@gmail.com,"9258 Branham Street, Las Vegas, Nevada, United States, 89160",2024-07-06 20:57:39
+25,Alyson Strahan,(559) 029-4068,alyson.strahan@yahoo.com,"1007 Glen Ridge Court, Fresno, California, United States, 93762",2024-07-09 23:34:21
+26,Farlee Liepmann,(234) 689-4898,farlee.liepmann@yahoo.com,"10228 Hoffman Court, Akron, Ohio, United States, 44393",2024-04-11 22:48:54
+27,Finley Shelsher,(202) 563-2497,finley.shelsher@yahoo.co.in,"3123 Edisto Lane, Washington, District of Columbia, United States, 20220",2024-08-07 21:43:46
+28,Keenan Swainger,(251) 564-3836,keenan.swainger@yahoo.com,"247 Lartigue Lane, Mobile, Alabama, United States, 36610",2024-05-21 08:05:11
+29,Chicky Blunt,(208) 172-7690,chicky.blunt@yahoo.com.au,"5443 Duke Terrace, Boise, Idaho, United States, 83727",2024-07-02 04:01:59
+30,Ray Coxhead,(619) 934-9035,ray.coxhead@yahoo.fr,"8948 Atwood Way, San Diego, California, United States, 92105",2024-05-20 19:27:18
+31,Lothario Kibard,(814) 353-8307,lothario.kibard@hotmail.com,"1858 Paxton Court, Erie, Pennsylvania, United States, 16510",2024-08-24 09:29:39
+32,Mac Mowbury,(419) 969-8608,mac.mowbury@gmail.com,"11110 Yager Lane, Toledo, Ohio, United States, 43656",2024-10-16 09:36:33
+33,Veriee Instrell,(208) 155-6117,veriee.instrell@gmail.com,"10672 Brine Way, Pocatello, Idaho, United States, 83206",2024-02-10 00:20:55
+34,Tatum Mynard,(706) 346-8557,tatum.mynard@comcast.net,"1625 Jace Place, Columbus, Georgia, United States, 31998",2024-03-27 18:51:00
+35,Lavinia Jakel,(615) 688-6619,lavinia.jakel@hotmail.com,"5481 Yates Avenue, Nashville, Tennessee, United States, 37228",2024-09-09 17:33:41
+36,Diane Canavan,(602) 572-4290,diane.canavan@orange.fr,"5017 Allende Avenue, Phoenix, Arizona, United States, 85067",2024-12-25 12:18:18
+37,Berkeley Carnier,(843) 709-5305,berkeley.carnier@gmail.com,"3506 Inverary Avenue, Charleston, South Carolina, United States, 29403",2024-12-28 20:38:46
+38,Lisa Widdocks,(850) 116-5194,lisa.widdocks@gmail.com,"12044 Cardona Way, Pensacola, Florida, United States, 32520",2024-09-23 08:44:00
+39,Julian Dowsey,(301) 070-2997,julian.dowsey@gmail.com,"620 Vinewood Avenue, Hyattsville, Maryland, United States, 20784",2024-08-01 08:38:37
+40,Morgana Seydlitz,(913) 193-1566,morgana.seydlitz@yahoo.ca,"11610 Carnation Court, Kansas City, Kansas, United States, 66112",2024-09-13 15:03:55
+41,Faustina Antognetti,(651) 801-7954,faustina.antognetti@hotmail.com,"4368 Talley Ridge Drive, Saint Paul, Minnesota, United States, 55188",2024-05-13 07:56:28
+42,Montague Droogan,(305) 432-1927,montague.droogan@gmail.com,"7242 Timberwood Terrace, Hialeah, Florida, United States, 33018",2024-12-24 19:04:38
+43,Hobey Winterscale,(949) 993-1898,hobey.winterscale@yahoo.com,"6187 Nugget Place, Irvine, California, United States, 92619",2025-01-11 01:23:28
+44,Giavani McGillreich,(207) 191-2357,giavani.mcgillreich@yahoo.com.br,"7853 Auburndale Avenue, Portland, Maine, United States, 04109",2024-04-22 06:35:20
+45,Marin Longman,(206) 017-7832,marin.longman@msn.com,"3808 Inner Circle, Tacoma, Washington, United States, 98424",2024-10-11 18:17:15
+46,Alic Barber,(302) 573-0552,alic.barber@hotmail.com,"1138 Poppy Circle, Wilmington, Delaware, United States, 19897",2024-10-18 12:16:24
+47,Tracie Sainter,(251) 538-3259,tracie.sainter@gmail.com,"7293 Burnett Terrace, Mobile, Alabama, United States, 36605",2024-12-24 19:43:02
+48,Frederico Cridlin,(512) 485-6397,frederico.cridlin@gmail.com,"14620 O'Day Street, Round Rock, Texas, United States, 78682",2025-01-23 20:55:23
+49,Callean Rides,(205) 234-5572,callean.rides@googlemail.com,"3503 Virginia Drive, Birmingham, Alabama, United States, 35242",2024-11-06 19:39:09
+50,Pembroke McGillreich,(313) 529-4563,pembroke.mcgillreich@hotmail.com,"9228 West Schwartz Blvd., Detroit, Michigan, United States, 48295",2024-08-10 04:27:54
+51,Ruthe Handmore,(217) 835-7301,ruthe.handmore@aol.com,"236 Adams Lane, Springfield, Illinois, United States, 62723",2024-12-25 21:19:11
+52,Dael Rohan,(203) 201-5503,dael.rohan@hotmail.com,"13471 Timber Terrace, Waterbury, Connecticut, United States, 06726",2024-11-10 17:23:01
+53,Auberta Donald,(916) 526-0528,auberta.donald@ig.com.br,"185 McTuveous Court, Sacramento, California, United States, 94263",2024-02-03 15:34:36
+54,Gwenny De Francesco,(504) 851-4905,gwenny.defrancesco@rediffmail.com,"7401 Patterson Loop, New Orleans, Louisiana, United States, 70165",2024-09-20 06:33:17
+55,Barbra Bartalucci,(801) 883-0751,barbra.bartalucci@hotmail.com,"5825 Malacara Lane, Salt Lake City, Utah, United States, 84199",2024-09-11 01:36:28
+56,Belita Bullivant,(412) 425-2659,belita.bullivant@hotmail.com,"2955 Hallmark Path, Pittsburgh, Pennsylvania, United States, 15225",2024-07-11 21:53:04
+57,Britt Creenan,(412) 666-2695,britt.creenan@orange.fr,"11894 East Gaffney Avenue, Pittsburgh, Pennsylvania, United States, 15250",2024-03-18 00:22:22
+58,Kalila Middleditch,(314) 709-1099,kalila.middleditch@hotmail.com,"1704 Gist Court, Saint Louis, Missouri, United States, 63158",2024-07-07 05:28:37
+59,Michelina Edinboro,(202) 320-5015,michelina.edinboro@outlook.com,"6789 Millican Avenue, Washington, District of Columbia, United States, 20337",2024-07-25 17:24:12
+60,Fredric Churchman,(339) 410-8404,fredric.churchman@hotmail.com,"13846 Halifax Lane, Boston, Massachusetts, United States, 02163",2024-11-20 12:42:22
+61,Flory Free,(239) 285-8985,flory.free@freenet.de,"11408 Sanderling Street, Fort Myers, Florida, United States, 33913",2024-06-21 10:44:05
+62,Johann Andrzejczak,(405) 215-3869,johann.andrzejczak@hotmail.com,"11440 Frank DiPietro Drive, Oklahoma City, Oklahoma, United States, 73124",2024-09-08 18:04:29
+63,Dulcia Puddicombe,(760) 209-6891,dulcia.puddicombe@sbcglobal.net,"8171 Zephyrhills Road, Escondido, California, United States, 92030",2024-06-14 06:07:27
+64,Beauregard Alfuso,(910) 158-4041,beauregard.alfuso@gmail.com,"3204 Countrywind Court, Fayetteville, North Carolina, United States, 28305",2024-06-15 18:04:56
+65,Teriann Margiotta,(772) 258-1312,teriann.margiotta@hotmail.co.uk,"929 Van Buren Way, Fort Pierce, Florida, United States, 34981",2024-12-31 15:47:58
+66,Courtnay Whitley,(865) 536-3356,courtnay.whitley@hotmail.co.uk,"6920 Keeley Court, Knoxville, Tennessee, United States, 37919",2024-12-31 04:30:18
+67,Josephina Chelsom,(702) 678-9131,josephina.chelsom@yahoo.com,"3740 St. Thomas Lane, Las Vegas, Nevada, United States, 89125",2024-10-13 08:58:29
+68,Donica Caulwell,(512) 931-8645,donica.caulwell@hotmail.co.uk,"10786 Balcorta Place, Austin, Texas, United States, 78783",2025-01-29 01:17:02
+69,Nathanael Bendig,(336) 591-1313,nathanael.bendig@bol.com.br,"941 Kettering Court, Greensboro, North Carolina, United States, 27409",2024-09-02 01:29:27
+70,Eugene Torresi,(518) 372-4999,eugene.torresi@gmail.com,"8519 Ridley Terrace, Albany, New York, United States, 12205",2024-03-14 22:48:41
+71,Joell Steggals,(713) 561-8194,joell.steggals@gmail.com,"3766 Millhorn Loop, Houston, Texas, United States, 77260",2024-07-11 21:13:53
+72,Aurilia Lynnett,(786) 280-4124,aurilia.lynnett@yahoo.com,"6771 Dorst Lane, Miami, Florida, United States, 33124",2024-08-26 06:29:04
+73,Pollyanna Nuttall,(806) 517-3100,pollyanna.nuttall@gmail.com,"11850 Dentsville Lane, Lubbock, Texas, United States, 79415",2024-10-08 17:45:26
+74,Erl Kennedy,(434) 497-8285,erl.kennedy@gmail.com,"9200 Judith Lane, Lynchburg, Virginia, United States, 24503",2024-09-28 00:45:52
+75,Julie Tremollet,(253) 516-0212,julie.tremollet@yahoo.com,"12317 Kim Porter Way, Seattle, Washington, United States, 98104",2024-05-30 19:52:05
+76,Cassi Place,(303) 563-0968,cassi.place@yahoo.com,"8550 Spitler Court, Denver, Colorado, United States, 80235",2024-12-20 03:35:50
+77,Stillmann Silverstone,(504) 522-0145,stillmann.silverstone@hetnet.nl,"1609 Claverton Street, New Orleans, Louisiana, United States, 70142",2024-03-10 11:40:08
+78,Carie Moakes,(336) 156-4994,carie.moakes@gmail.com,"9353 Cardinal Court, Winston Salem, North Carolina, United States, 27150",2024-04-03 06:44:31
+79,Innis Cowap,(410) 574-7234,innis.cowap@yahoo.com,"13249 San Luis Lane, Baltimore, Maryland, United States, 21290",2024-12-12 20:23:25
+80,Marrissa Jankiewicz,(312) 019-5147,marrissa.jankiewicz@hotmail.fr,"4016 Pond Lane, Chicago, Illinois, United States, 60669",2025-01-05 08:36:38
+81,Ignace Schollick,(937) 796-2966,ignace.schollick@hotmail.com,"13395 Lilly Lane, Dayton, Ohio, United States, 45403",2024-08-03 22:00:59
+82,Jorie Rosenstiel,(256) 220-9868,jorie.rosenstiel@gmail.com,"14023 Garcia Court, Huntsville, Alabama, United States, 35815",2024-08-10 02:19:01
+83,Keane Klewer,(512) 321-3010,keane.klewer@yahoo.com,"8620 Cristo Road, Austin, Texas, United States, 78789",2024-07-21 19:46:32
+84,Palm Auden,(907) 239-2274,palm.auden@yahoo.com,"14446 Virginia Drive, Anchorage, Alaska, United States, 99517",2024-06-16 00:34:33
+85,Wenona Coulthard,(305) 483-9266,wenona.coulthard@aol.com,"2613 Mercadante Avenue, Naples, Florida, United States, 33961",2024-09-16 09:11:01
+86,Lukas Denyukin,(818) 217-0493,lukas.denyukin@yahoo.fr,"6763 Pompion Street, Glendale, California, United States, 91210",2024-02-24 05:36:32
+87,Jaye Dauney,(469) 199-7698,jaye.dauney@hotmail.com,"8703 Windsor Lane, Dallas, Texas, United States, 75246",2024-12-18 21:51:32
+88,Robers Theml,(404) 880-7339,robers.theml@aol.com,"2730 Magana Place, Atlanta, Georgia, United States, 31165",2024-09-24 01:53:20
+89,Ronni Wastall,(706) 683-8123,ronni.wastall@gmail.com,"7181 Zanzibar Place, Athens, Georgia, United States, 30610",2024-08-14 00:55:08
+90,Tessa Phonix,(512) 760-2613,tessa.phonix@yahoo.com,"5623 Florence Path, Austin, Texas, United States, 78778",2024-08-01 13:25:17
+91,Ardys Elsop,(614) 150-1913,ardys.elsop@hotmail.com,"10529 Canuto Court, Columbus, Ohio, United States, 43204",2024-11-22 23:39:19
+92,Dyna Petrelli,(702) 669-4590,dyna.petrelli@gmail.com,"221 Henry Loop, Las Vegas, Nevada, United States, 89193",2024-02-08 21:28:51
+93,Koral Kamiyama,(810) 141-2288,koral.kamiyama@gmail.com,"12322 Jessup Street, Flint, Michigan, United States, 48505",2024-07-10 00:50:47
+94,Samuele Swafford,(818) 434-7169,samuele.swafford@yahoo.com,"19 Methvin Street, Los Angeles, California, United States, 90065",2024-02-09 10:46:15
+95,Valentin Flahy,(713) 310-3980,valentin.flahy@comcast.net,"12270 Inverness Place, Houston, Texas, United States, 77288",2024-07-04 02:05:31
+96,Jayne Butting,(858) 873-3681,jayne.butting@gmail.com,"4168 Salamanca Street, San Diego, California, United States, 92110",2024-04-20 17:35:05
+97,Jaquelyn De Freyne,(218) 397-0565,jaquelyn.defreyne@hotmail.com,"1088 Greenhill Trail, Duluth, Minnesota, United States, 55811",2024-08-21 20:24:05
+98,Keslie Lasty,(214) 205-7377,keslie.lasty@hotmail.com,"12489 Bernard Lane, Dallas, Texas, United States, 75392",2024-03-17 18:59:46
+99,Corabella Gothup,(757) 512-2385,corabella.gothup@yahoo.co.jp,"4942 Avila Place, Norfolk, Virginia, United States, 23509",2024-10-03 21:03:08
+100,Kali Seiter,(405) 000-9499,kali.seiter@hotmail.com,"4773 Katherine Place, Oklahoma City, Oklahoma, United States, 73179",2025-01-13 19:50:30

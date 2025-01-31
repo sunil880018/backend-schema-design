@@ -1,0 +1,101 @@
+employee_id,employee_name,emp_contact_number,emp_role,avg_rating,created_at
+1,Minor Beaney,(937) 943-6539,Receptionist,0,2024-01-29 12:51:07
+2,Aile Huddles,(510) 302-9243,Pastry Chef,4,2024-01-29 13:00:21
+3,Jaquenette Woolger,(646) 670-7530,Kitchen Porter,0,2024-01-29 13:02:59
+4,Huntley Gierhard,(650) 659-7299,Receptionist,3,2024-01-29 13:10:38
+5,Quinlan Scimonelli,(253) 485-9622,Prep Cook,1,2024-01-29 13:18:45
+6,Ronnica Quenby,(816) 785-6704,Line Cook,0,2024-01-29 13:24:24
+7,Tadd Pauling,(602) 719-8345,Food Runner,2,2024-01-29 13:28:46
+8,Janaye Mahony,(703) 799-6084,Manager,0,2024-01-29 13:36:27
+9,Ilka Barham,(941) 244-4602,Dishwasher,1,2024-01-29 13:38:50
+10,Fransisco Cregeen,(515) 780-2852,Pastry Chef,3,2024-01-29 13:47:02
+11,Leigh Chiles,(312) 515-3215,Chef,1,2024-01-29 13:55:38
+12,Sherrie Housbey,(215) 245-3032,Sommelier,1,2024-01-29 13:56:47
+13,Deanna Tiffin,(585) 535-7029,Maintenance Staff,4,2024-01-29 13:58:16
+14,Joseito Pocknoll,(916) 389-2115,Event Coordinator,0,2024-01-29 14:04:39
+15,Thatcher Grane,(209) 550-5266,Host,3,2024-01-29 14:08:34
+16,Laverne Castletine,(918) 506-5397,Sommelier,0,2024-01-29 14:13:17
+17,Kathryne Reynalds,(212) 941-6061,Host,3,2024-01-29 14:16:08
+18,Adriano Upward,(813) 833-7161,Host,0,2024-01-29 14:24:01
+19,Mortimer MacRorie,(321) 914-0152,Kitchen Porter,0,2024-01-29 14:26:56
+20,Fiorenze Dawson,(253) 953-7878,Kitchen Porter,2,2024-01-29 14:35:30
+21,Deane Grigoroni,(240) 737-6218,Dishwasher,1,2024-01-29 14:40:28
+22,Andie Normanell,(786) 300-1212,Event Coordinator,2,2024-01-29 14:47:38
+23,Chancey Remmer,(915) 129-7769,Cashier,0,2024-01-29 14:56:58
+24,Myca Preble,(413) 103-8521,Pastry Chef,3,2024-01-29 15:00:30
+25,Joela Reuther,(585) 994-3803,Cashier,1,2024-01-29 15:03:48
+26,Alikee Addionisio,(423) 070-6979,Kitchen Porter,3,2024-01-29 15:13:41
+27,Sean Hughs,(212) 680-1891,Sous Chef,0,2024-01-29 15:16:25
+28,Bertina Mitton,(318) 917-5770,Line Cook,2,2024-01-29 15:22:08
+29,Neila Moscon,(337) 344-6123,Cashier,0,2024-01-29 15:31:01
+30,Robenia Lively,(402) 144-5529,Host,2,2024-01-29 15:36:01
+31,Halie Spacie,(214) 639-4026,Bartender,0,2024-01-29 15:43:44
+32,Jamesy Chasemore,(405) 683-3700,Kitchen Porter,4,2024-01-29 15:50:01
+33,Liza Parfrey,(480) 014-7047,Catering Manager,3,2024-01-29 15:57:23
+34,Nerta Jacobovitz,(202) 292-6088,Delivery Person,4,2024-01-29 16:06:54
+35,Michele Bestall,(505) 276-0535,Line Cook,1,2024-01-29 16:10:32
+36,Chloe Ellacott,(615) 273-3577,Delivery Person,1,2024-01-29 16:13:55
+37,Sorcha Petran,(212) 091-2512,Maintenance Staff,1,2024-01-29 16:15:16
+38,Finlay Iacopetti,(208) 609-0875,Cashier,0,2024-01-29 16:18:45
+39,Essy Feavyour,(508) 619-2211,Chef,3,2024-01-29 16:27:10
+40,Patrizius Sedgwick,(954) 923-9845,Waiter,1,2024-01-29 16:31:59
+41,Westbrook Macallam,(917) 047-8424,Receptionist,3,2024-01-29 16:33:57
+42,Arlyne Weyman,(810) 452-2912,Host,4,2024-01-29 16:37:50
+43,Lorelei Gilkison,(321) 778-6057,Sommelier,0,2024-01-29 16:46:09
+44,Claudius Sante,(864) 112-5332,Pastry Chef,4,2024-01-29 16:54:15
+45,Joanna Kidney,(347) 386-8223,Food Runner,0,2024-01-29 16:57:39
+46,Rodolph Billin,(608) 260-2371,Maintenance Staff,2,2024-01-29 17:00:07
+47,Mycah Sowood,(407) 826-2083,Barista,4,2024-01-29 17:02:19
+48,Brett Thomsson,(540) 720-5102,Sommelier,1,2024-01-29 17:07:32
+49,Manfred Currier,(720) 307-0035,Line Cook,0,2024-01-29 17:15:16
+50,Theodore Room,(770) 542-9855,Sous Chef,3,2024-01-29 17:23:16
+51,Norma Speachley,(612) 146-7595,Bartender,3,2024-01-29 17:31:08
+52,Bartolomeo Wreak,(336) 752-2062,Dishwasher,0,2024-01-29 17:40:19
+53,Delores Earl,(818) 874-2883,Manager,2,2024-01-29 17:44:47
+54,Gerri Slimings,(352) 864-5592,Line Cook,2,2024-01-29 17:49:21
+55,Lynne Lethieulier,(754) 986-7109,Cashier,2,2024-01-29 17:51:36
+56,Selie Enrico,(504) 010-0641,Manager,0,2024-01-29 17:53:59
+57,Elsey Anthona,(716) 609-3345,Event Coordinator,3,2024-01-29 17:55:56
+58,Rae Vaulkhard,(215) 525-2411,Waiter,0,2024-01-29 18:03:15
+59,Whittaker Stebles,(203) 277-9622,Sous Chef,3,2024-01-29 18:06:19
+60,Stefano Carnegie,(937) 224-2772,Event Coordinator,3,2024-01-29 18:16:17
+61,Nikolos Lindstedt,(816) 575-7168,Maintenance Staff,0,2024-01-29 18:22:04
+62,Sibel Meatcher,(808) 734-4159,Food Runner,0,2024-01-29 18:23:52
+63,Merrile Patey,(913) 659-9951,Barista,3,2024-01-29 18:27:20
+64,Waly Ferriday,(202) 008-7680,Prep Cook,1,2024-01-29 18:36:41
+65,Hayden Sherlaw,(217) 959-0234,Delivery Person,1,2024-01-29 18:37:43
+66,Harp Phelps,(317) 154-8723,Waiter,3,2024-01-29 18:41:21
+67,Zorah Havenhand,(518) 756-4929,Bartender,4,2024-01-29 18:48:01
+68,Yale Moral,(573) 647-3248,Cashier,0,2024-01-29 18:54:58
+69,Dillie Jorge,(601) 543-1197,Cashier,0,2024-01-29 19:04:32
+70,Claudell Rospars,(617) 470-7636,Pastry Chef,4,2024-01-29 19:07:45
+71,Ronnica Shallcroff,(610) 441-7897,Delivery Person,4,2024-01-29 19:10:37
+72,Rad MacGregor,(859) 004-6099,Food Runner,4,2024-01-29 19:13:38
+73,Masha Birth,(314) 451-6309,Line Cook,4,2024-01-29 19:16:27
+74,Rodina Perrone,(218) 265-5946,Waiter,0,2024-01-29 19:25:04
+75,Cindra Barstowk,(215) 206-3781,Sommelier,0,2024-01-29 19:28:12
+76,Martica Garden,(786) 667-1385,Kitchen Porter,0,2024-01-29 19:34:57
+77,Margalit Ellaway,(505) 518-4367,Cashier,2,2024-01-29 19:43:23
+78,Cort Cousins,(804) 321-3315,Manager,1,2024-01-29 19:52:34
+79,Kirsten Duckworth,(585) 847-7846,Catering Manager,3,2024-01-29 19:54:31
+80,Robinett Ropartz,(913) 904-8297,Dishwasher,1,2024-01-29 19:57:26
+81,Morry Grindley,(405) 013-6546,Dishwasher,4,2024-01-29 20:04:34
+82,Orin Staniforth,(214) 224-9270,Kitchen Porter,4,2024-01-29 20:09:38
+83,Tobye Colebourne,(914) 078-6420,Sous Chef,2,2024-01-29 20:12:01
+84,Aarika Baddeley,(704) 364-8486,Pastry Chef,1,2024-01-29 20:15:36
+85,Viva O'Connolly,(256) 227-9876,Barista,3,2024-01-29 20:19:19
+86,Kassandra Malia,(801) 261-7121,Event Coordinator,2,2024-01-29 20:24:48
+87,Emylee Longley,(662) 384-5067,Sous Chef,2,2024-01-29 20:27:21
+88,Dur Muslim,(731) 616-3724,Line Cook,1,2024-01-29 20:30:31
+89,Gerrie Sabbatier,(480) 541-4529,Dishwasher,1,2024-01-29 20:35:43
+90,Giffer Trobridge,(859) 468-1660,Bartender,0,2024-01-29 20:38:14
+91,Nikki M'Chirrie,(775) 778-3605,Line Cook,2,2024-01-29 20:40:04
+92,Toiboid Itzig,(971) 934-2399,Delivery Person,2,2024-01-29 20:49:38
+93,Emelita Abilowitz,(404) 283-5581,Dishwasher,1,2024-01-29 20:57:39
+94,Lothaire Marunchak,(831) 348-3078,Catering Manager,2,2024-01-29 20:58:52
+95,Nannie Swyn,(727) 726-9482,Pastry Chef,4,2024-01-29 21:08:37
+96,Harlie Yacobsohn,(210) 112-6482,Sommelier,3,2024-01-29 21:18:13
+97,Lulu Haxbie,(318) 378-0311,Kitchen Porter,2,2024-01-29 21:24:41
+98,Merv Gornal,(803) 242-6106,Prep Cook,1,2024-01-29 21:27:40
+99,Chere Foulis,(619) 207-9899,Barista,4,2024-01-29 21:30:27
+100,Dean Gable,(813) 673-8511,Delivery Person,3,2024-01-29 21:32:53
