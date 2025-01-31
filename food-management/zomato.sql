@@ -7,10 +7,7 @@ CREATE TABLE customer (
     contact_number VARCHAR(15) UNIQUE NOT NULL,
     email VARCHAR(50) UNIQUE NOT NULL,
     address TEXT NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    -- Indexes for quick lookup
-    CONSTRAINT idx_customer_contact UNIQUE (contact_number),
-    CONSTRAINT idx_customer_email UNIQUE (email)
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 CREATE INDEX idx_customer_contact ON customer(contact_number);
@@ -22,9 +19,7 @@ CREATE TABLE zomato_employee (
     emp_contact_number VARCHAR(15) UNIQUE NOT NULL,
     emp_role VARCHAR(20) CHECK (emp_role IN ('Delivery', 'Admin', 'Support')) NOT NULL,
     avg_rating DECIMAL(2,1) CHECK (avg_rating BETWEEN 0 AND 5) NOT NULL DEFAULT 0.0,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    -- Index for quick employee lookup by contact number
-    CONSTRAINT idx_employee_contact UNIQUE (emp_contact_number)
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 CREATE INDEX idx_employee_contact ON zomato_employee(emp_contact_number);
@@ -34,17 +29,14 @@ CREATE INDEX idx_employee_contact ON zomato_employee(emp_contact_number);
 -- ==============================
 CREATE TABLE restaurant (
     restaurant_id SERIAL PRIMARY KEY,
-    restaurant_name VARCHAR(100) NOT NULL,
+    restaurant_name VARCHAR(100) NOT NULL UNIQUE,
     location VARCHAR(100) NOT NULL,
     rating DECIMAL(2,1) CHECK (rating BETWEEN 0 AND 5) NOT NULL DEFAULT 0.0,
     contact_number VARCHAR(15) UNIQUE NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    -- Indexes for searching restaurants quickly by name, location, and rating
-    CONSTRAINT idx_restaurant_name UNIQUE (restaurant_name)
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 CREATE INDEX idx_restaurant_location ON restaurant(location);
-CREATE INDEX idx_restaurant_name ON restaurant(restaurant_name);
 CREATE INDEX idx_restaurant_rating ON restaurant(rating);
 
 CREATE TABLE categories (
@@ -58,9 +50,7 @@ CREATE TABLE foods (
     category_id INT NOT NULL,
     price_per_unit DECIMAL(7,2) CHECK (price_per_unit > 0) NOT NULL,
     description TEXT,
-    CONSTRAINT fk_category FOREIGN KEY (category_id) REFERENCES categories(category_id) ON DELETE CASCADE,
-    -- Index on category_id for faster lookups by category
-    CONSTRAINT idx_food_category UNIQUE (category_id)
+    CONSTRAINT fk_category FOREIGN KEY (category_id) REFERENCES categories(category_id) ON DELETE CASCADE
 );
 
 CREATE INDEX idx_food_category ON foods(category_id);
@@ -72,7 +62,7 @@ CREATE TABLE restaurant_menu (
     availability BOOLEAN NOT NULL DEFAULT TRUE,
     CONSTRAINT fk_restaurant FOREIGN KEY (restaurant_id) REFERENCES restaurant(restaurant_id) ON DELETE CASCADE,
     CONSTRAINT fk_food FOREIGN KEY (food_id) REFERENCES foods(food_id) ON DELETE CASCADE,
-    UNIQUE (restaurant_id, food_id) -- Ensures food is unique per restaurant
+    UNIQUE (restaurant_id, food_id)
 );
 
 CREATE INDEX idx_restaurant_menu ON restaurant_menu(restaurant_id, food_id);
@@ -90,10 +80,7 @@ CREATE TABLE order_detail (
     delivered_time TIMESTAMP NULL,
     CONSTRAINT fk_customer FOREIGN KEY (customer_id) REFERENCES customer(customer_id) ON DELETE CASCADE,
     CONSTRAINT fk_restaurant FOREIGN KEY (restaurant_id) REFERENCES restaurant(restaurant_id) ON DELETE CASCADE,
-    CONSTRAINT fk_zomato_employee FOREIGN KEY (employee_id) REFERENCES zomato_employee(employee_id) ON DELETE SET NULL,
-    -- Indexes for filtering orders by time and status
-    CONSTRAINT idx_order_time INDEX (order_time),
-    CONSTRAINT idx_order_status INDEX (order_status)
+    CONSTRAINT fk_zomato_employee FOREIGN KEY (employee_id) REFERENCES zomato_employee(employee_id) ON DELETE SET NULL
 );
 
 CREATE INDEX idx_order_time ON order_detail(order_time);
@@ -105,9 +92,7 @@ CREATE TABLE order_items (
     food_id INT NOT NULL,
     quantity INT CHECK (quantity > 0) NOT NULL,
     CONSTRAINT fk_order FOREIGN KEY (order_id) REFERENCES order_detail(order_id) ON DELETE CASCADE,
-    CONSTRAINT fk_food FOREIGN KEY (food_id) REFERENCES foods(food_id) ON DELETE CASCADE,
-    -- Index for faster lookups of order and food
-    CONSTRAINT idx_order_food UNIQUE (order_id, food_id)
+    CONSTRAINT fk_food FOREIGN KEY (food_id) REFERENCES foods(food_id) ON DELETE CASCADE
 );
 
 CREATE INDEX idx_order_food ON order_items(order_id, food_id);
@@ -122,10 +107,7 @@ CREATE TABLE payment_table (
     payment_status VARCHAR(20) CHECK (payment_status IN ('Pending', 'Completed', 'Failed', 'Refunded')) NOT NULL DEFAULT 'Pending',
     payment_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     amount DECIMAL(10,2) CHECK (amount > 0) NOT NULL,
-    CONSTRAINT fk_order FOREIGN KEY (order_id) REFERENCES order_detail(order_id) ON DELETE CASCADE,
-    -- Index for faster lookup of payment status and order ID
-    CONSTRAINT idx_payment_order_id INDEX (order_id),
-    CONSTRAINT idx_payment_status INDEX (payment_status)
+    CONSTRAINT fk_order FOREIGN KEY (order_id) REFERENCES order_detail(order_id) ON DELETE CASCADE
 );
 
 CREATE INDEX idx_payment_order_id ON payment_table(order_id);
@@ -142,9 +124,7 @@ CREATE TABLE delivery (
     estimated_time TIMESTAMP,
     actual_delivery_time TIMESTAMP NULL,
     CONSTRAINT fk_order FOREIGN KEY (order_id) REFERENCES order_detail(order_id) ON DELETE CASCADE,
-    CONSTRAINT fk_employee FOREIGN KEY (employee_id) REFERENCES zomato_employee(employee_id) ON DELETE SET NULL,
-    -- Index for filtering deliveries by status
-    CONSTRAINT idx_delivery_status INDEX (delivery_status)
+    CONSTRAINT fk_employee FOREIGN KEY (employee_id) REFERENCES zomato_employee(employee_id) ON DELETE SET NULL
 );
 
 CREATE INDEX idx_delivery_status ON delivery(delivery_status);
@@ -160,31 +140,11 @@ CREATE TABLE reviews (
     review_text TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     CONSTRAINT fk_customer FOREIGN KEY (customer_id) REFERENCES customer(customer_id) ON DELETE CASCADE,
-    CONSTRAINT fk_restaurant FOREIGN KEY (restaurant_id) REFERENCES restaurant(restaurant_id) ON DELETE CASCADE,
-    -- Indexes for searching reviews by customer or restaurant
-    CONSTRAINT idx_reviews_customer_id INDEX (customer_id),
-    CONSTRAINT idx_reviews_restaurant_id INDEX (restaurant_id)
+    CONSTRAINT fk_restaurant FOREIGN KEY (restaurant_id) REFERENCES restaurant(restaurant_id) ON DELETE CASCADE
 );
 
 CREATE INDEX idx_reviews_customer_id ON reviews(customer_id);
 CREATE INDEX idx_reviews_restaurant_id ON reviews(restaurant_id);
-
-CREATE TABLE restaurant_reviews (
-    review_id SERIAL PRIMARY KEY,
-    customer_id INT NOT NULL,
-    restaurant_id INT NOT NULL,
-    rating DECIMAL(2,1) CHECK (rating BETWEEN 0 AND 5) NOT NULL,
-    review_text TEXT,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    CONSTRAINT fk_customer FOREIGN KEY (customer_id) REFERENCES customer(customer_id) ON DELETE CASCADE,
-    CONSTRAINT fk_restaurant FOREIGN KEY (restaurant_id) REFERENCES restaurant(restaurant_id) ON DELETE CASCADE,
-    -- Index for searching restaurant reviews
-    CONSTRAINT idx_restaurant_reviews_customer_id INDEX (customer_id),
-    CONSTRAINT idx_restaurant_reviews_restaurant_id INDEX (restaurant_id)
-);
-
-CREATE INDEX idx_restaurant_reviews_customer_id ON restaurant_reviews(customer_id);
-CREATE INDEX idx_restaurant_reviews_restaurant_id ON restaurant_reviews(restaurant_id);
 
 -- ==============================
 --     OFFERS & DISCOUNTS
@@ -195,9 +155,7 @@ CREATE TABLE offers (
     discount_percentage DECIMAL(5,2) CHECK (discount_percentage BETWEEN 0 AND 100) NOT NULL,
     valid_from TIMESTAMP NOT NULL,
     valid_until TIMESTAMP NOT NULL,
-    CONSTRAINT fk_restaurant FOREIGN KEY (restaurant_id) REFERENCES restaurant(restaurant_id) ON DELETE CASCADE,
-    -- Index on restaurant_id for quick lookup of offers
-    CONSTRAINT idx_offers_restaurant_id INDEX (restaurant_id)
+    CONSTRAINT fk_restaurant FOREIGN KEY (restaurant_id) REFERENCES restaurant(restaurant_id) ON DELETE CASCADE
 );
 
 CREATE INDEX idx_offers_restaurant_id ON offers(restaurant_id);

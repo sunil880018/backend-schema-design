@@ -1,100 +1,100 @@
-{"avg_rating":3,"created_at":"2024-01-29 12:51:07","emp_contact_number":"(323) 193-9364","emp_role":"Catering Manager","employee_id":1,"employee_name":"Goldy Spoward"}
-{"avg_rating":1,"created_at":"2024-01-29 12:57:07","emp_contact_number":"(571) 403-4585","emp_role":"Kitchen Porter","employee_id":2,"employee_name":"Ivette Nilges"}
-{"avg_rating":0,"created_at":"2024-01-29 13:01:14","emp_contact_number":"(802) 056-3301","emp_role":"Sous Chef","employee_id":3,"employee_name":"Ethelind Padgett"}
-{"avg_rating":4,"created_at":"2024-01-29 13:10:02","emp_contact_number":"(651) 283-4435","emp_role":"Pastry Chef","employee_id":4,"employee_name":"Shelba Megahey"}
-{"avg_rating":2,"created_at":"2024-01-29 13:11:46","emp_contact_number":"(573) 149-5436","emp_role":"Prep Cook","employee_id":5,"employee_name":"Mayor Tysall"}
-{"avg_rating":0,"created_at":"2024-01-29 13:17:40","emp_contact_number":"(405) 588-0664","emp_role":"Pastry Chef","employee_id":6,"employee_name":"Price Durtnall"}
-{"avg_rating":3,"created_at":"2024-01-29 13:23:12","emp_contact_number":"(361) 300-7362","emp_role":"Waiter","employee_id":7,"employee_name":"Tab Flicker"}
-{"avg_rating":0,"created_at":"2024-01-29 13:31:57","emp_contact_number":"(209) 704-9481","emp_role":"Line Cook","employee_id":8,"employee_name":"Halette Gracewood"}
-{"avg_rating":4,"created_at":"2024-01-29 13:33:21","emp_contact_number":"(318) 984-7216","emp_role":"Maintenance Staff","employee_id":9,"employee_name":"Cobbie Oades"}
-{"avg_rating":3,"created_at":"2024-01-29 13:42:17","emp_contact_number":"(317) 880-6511","emp_role":"Receptionist","employee_id":10,"employee_name":"Byrann Blankley"}
-{"avg_rating":1,"created_at":"2024-01-29 13:43:54","emp_contact_number":"(309) 439-2630","emp_role":"Dishwasher","employee_id":11,"employee_name":"Carlie Benjamin"}
-{"avg_rating":4,"created_at":"2024-01-29 13:45:21","emp_contact_number":"(832) 122-2929","emp_role":"Prep Cook","employee_id":12,"employee_name":"Edith McCarron"}
-{"avg_rating":1,"created_at":"2024-01-29 13:49:55","emp_contact_number":"(716) 932-3961","emp_role":"Maintenance Staff","employee_id":13,"employee_name":"Helene O'Hern"}
-{"avg_rating":0,"created_at":"2024-01-29 13:59:26","emp_contact_number":"(646) 202-4778","emp_role":"Sous Chef","employee_id":14,"employee_name":"Alvinia Penticost"}
-{"avg_rating":1,"created_at":"2024-01-29 14:08:17","emp_contact_number":"(815) 698-0301","emp_role":"Pastry Chef","employee_id":15,"employee_name":"Rollins Christol"}
-{"avg_rating":4,"created_at":"2024-01-29 14:16:31","emp_contact_number":"(404) 181-2507","emp_role":"Manager","employee_id":16,"employee_name":"Charmian Garthside"}
-{"avg_rating":1,"created_at":"2024-01-29 14:25:35","emp_contact_number":"(510) 053-8181","emp_role":"Food Runner","employee_id":17,"employee_name":"Matilda Longfield"}
-{"avg_rating":3,"created_at":"2024-01-29 14:34:18","emp_contact_number":"(719) 619-9782","emp_role":"Line Cook","employee_id":18,"employee_name":"Jeffrey Gepp"}
-{"avg_rating":2,"created_at":"2024-01-29 14:37:30","emp_contact_number":"(203) 655-6286","emp_role":"Kitchen Porter","employee_id":19,"employee_name":"Trix Shreeve"}
-{"avg_rating":3,"created_at":"2024-01-29 14:44:42","emp_contact_number":"(225) 438-9171","emp_role":"Barista","employee_id":20,"employee_name":"Samaria Riglesford"}
-{"avg_rating":4,"created_at":"2024-01-29 14:47:53","emp_contact_number":"(941) 861-0734","emp_role":"Manager","employee_id":21,"employee_name":"Farica Basler"}
-{"avg_rating":4,"created_at":"2024-01-29 14:51:07","emp_contact_number":"(510) 534-5579","emp_role":"Line Cook","employee_id":22,"employee_name":"Cooper Chesterman"}
-{"avg_rating":3,"created_at":"2024-01-29 14:55:05","emp_contact_number":"(804) 326-5747","emp_role":"Pastry Chef","employee_id":23,"employee_name":"Haywood Shadrach"}
-{"avg_rating":0,"created_at":"2024-01-29 14:57:47","emp_contact_number":"(213) 688-8593","emp_role":"Barista","employee_id":24,"employee_name":"Allie Morewood"}
-{"avg_rating":4,"created_at":"2024-01-29 15:07:39","emp_contact_number":"(805) 746-2162","emp_role":"Food Runner","employee_id":25,"employee_name":"Jemimah Davenall"}
-{"avg_rating":0,"created_at":"2024-01-29 15:12:27","emp_contact_number":"(615) 874-7530","emp_role":"Dishwasher","employee_id":26,"employee_name":"Godiva Dallicoat"}
-{"avg_rating":1,"created_at":"2024-01-29 15:19:18","emp_contact_number":"(718) 659-7296","emp_role":"Waiter","employee_id":27,"employee_name":"Debby Boost"}
-{"avg_rating":4,"created_at":"2024-01-29 15:27:34","emp_contact_number":"(208) 598-8242","emp_role":"Pastry Chef","employee_id":28,"employee_name":"Trenton Whorton"}
-{"avg_rating":4,"created_at":"2024-01-29 15:29:31","emp_contact_number":"(559) 846-5838","emp_role":"Delivery Person","employee_id":29,"employee_name":"August Jaime"}
-{"avg_rating":2,"created_at":"2024-01-29 15:31:44","emp_contact_number":"(712) 859-2345","emp_role":"Dishwasher","employee_id":30,"employee_name":"Antonina Plewright"}
-{"avg_rating":3,"created_at":"2024-01-29 15:41:18","emp_contact_number":"(347) 343-4862","emp_role":"Chef","employee_id":31,"employee_name":"Mahmud Treamayne"}
-{"avg_rating":4,"created_at":"2024-01-29 15:50:21","emp_contact_number":"(971) 985-3460","emp_role":"Pastry Chef","employee_id":32,"employee_name":"Clyde Bankes"}
-{"avg_rating":0,"created_at":"2024-01-29 15:55:20","emp_contact_number":"(971) 637-7476","emp_role":"Receptionist","employee_id":33,"employee_name":"Ameline Michel"}
-{"avg_rating":2,"created_at":"2024-01-29 15:57:34","emp_contact_number":"(941) 870-3672","emp_role":"Host","employee_id":34,"employee_name":"Boy Woolam"}
-{"avg_rating":4,"created_at":"2024-01-29 15:58:49","emp_contact_number":"(704) 291-6139","emp_role":"Bartender","employee_id":35,"employee_name":"Charin Blouet"}
-{"avg_rating":1,"created_at":"2024-01-29 16:00:13","emp_contact_number":"(202) 432-7523","emp_role":"Event Coordinator","employee_id":36,"employee_name":"Kimberlee Cordelle"}
-{"avg_rating":4,"created_at":"2024-01-29 16:07:15","emp_contact_number":"(804) 686-2218","emp_role":"Barista","employee_id":37,"employee_name":"Alvinia Alleyne"}
-{"avg_rating":0,"created_at":"2024-01-29 16:09:40","emp_contact_number":"(937) 662-8279","emp_role":"Sous Chef","employee_id":38,"employee_name":"Herc Peare"}
-{"avg_rating":4,"created_at":"2024-01-29 16:10:57","emp_contact_number":"(415) 983-5998","emp_role":"Host","employee_id":39,"employee_name":"Wallache Nichol"}
-{"avg_rating":4,"created_at":"2024-01-29 16:17:15","emp_contact_number":"(253) 370-9796","emp_role":"Bartender","employee_id":40,"employee_name":"Gilligan MacTrustram"}
-{"avg_rating":3,"created_at":"2024-01-29 16:24:35","emp_contact_number":"(916) 369-5849","emp_role":"Manager","employee_id":41,"employee_name":"Raina Gyorffy"}
-{"avg_rating":1,"created_at":"2024-01-29 16:25:40","emp_contact_number":"(405) 399-4163","emp_role":"Sommelier","employee_id":42,"employee_name":"Marie Battson"}
-{"avg_rating":3,"created_at":"2024-01-29 16:26:47","emp_contact_number":"(414) 733-0002","emp_role":"Prep Cook","employee_id":43,"employee_name":"Kevina Askew"}
-{"avg_rating":3,"created_at":"2024-01-29 16:34:13","emp_contact_number":"(203) 291-9562","emp_role":"Barista","employee_id":44,"employee_name":"Giovanna Zanotti"}
-{"avg_rating":3,"created_at":"2024-01-29 16:39:38","emp_contact_number":"(917) 349-9962","emp_role":"Kitchen Porter","employee_id":45,"employee_name":"Torrie Frisel"}
-{"avg_rating":3,"created_at":"2024-01-29 16:41:09","emp_contact_number":"(713) 259-2348","emp_role":"Receptionist","employee_id":46,"employee_name":"Cilka Itzkovwitch"}
-{"avg_rating":1,"created_at":"2024-01-29 16:50:07","emp_contact_number":"(972) 932-8161","emp_role":"Barista","employee_id":47,"employee_name":"Shanda O'Hartnedy"}
-{"avg_rating":0,"created_at":"2024-01-29 16:54:26","emp_contact_number":"(317) 150-4625","emp_role":"Sommelier","employee_id":48,"employee_name":"Rawley Winkell"}
-{"avg_rating":1,"created_at":"2024-01-29 17:00:56","emp_contact_number":"(225) 741-4162","emp_role":"Receptionist","employee_id":49,"employee_name":"Alfonso Tuson"}
-{"avg_rating":3,"created_at":"2024-01-29 17:09:23","emp_contact_number":"(626) 459-8408","emp_role":"Receptionist","employee_id":50,"employee_name":"Joy Quelch"}
-{"avg_rating":2,"created_at":"2024-01-29 17:18:47","emp_contact_number":"(863) 636-9256","emp_role":"Event Coordinator","employee_id":51,"employee_name":"Ardys Ingraham"}
-{"avg_rating":3,"created_at":"2024-01-29 17:23:01","emp_contact_number":"(816) 392-6540","emp_role":"Maintenance Staff","employee_id":52,"employee_name":"Guntar Corre"}
-{"avg_rating":1,"created_at":"2024-01-29 17:26:09","emp_contact_number":"(850) 914-3909","emp_role":"Manager","employee_id":53,"employee_name":"Sharity Dissman"}
-{"avg_rating":2,"created_at":"2024-01-29 17:27:22","emp_contact_number":"(909) 049-0401","emp_role":"Barista","employee_id":54,"employee_name":"Marcello Harnett"}
-{"avg_rating":2,"created_at":"2024-01-29 17:33:44","emp_contact_number":"(754) 793-5081","emp_role":"Chef","employee_id":55,"employee_name":"Hannah Vause"}
-{"avg_rating":1,"created_at":"2024-01-29 17:35:11","emp_contact_number":"(915) 877-1631","emp_role":"Kitchen Porter","employee_id":56,"employee_name":"Eugen Nassey"}
-{"avg_rating":0,"created_at":"2024-01-29 17:42:11","emp_contact_number":"(785) 268-1373","emp_role":"Pastry Chef","employee_id":57,"employee_name":"Shelley Symson"}
-{"avg_rating":2,"created_at":"2024-01-29 17:52:02","emp_contact_number":"(260) 651-5272","emp_role":"Delivery Person","employee_id":58,"employee_name":"Calida O'Donovan"}
-{"avg_rating":1,"created_at":"2024-01-29 17:55:48","emp_contact_number":"(757) 731-4853","emp_role":"Kitchen Porter","employee_id":59,"employee_name":"Nancee Scoble"}
-{"avg_rating":0,"created_at":"2024-01-29 17:59:53","emp_contact_number":"(704) 880-9801","emp_role":"Event Coordinator","employee_id":60,"employee_name":"Leslie Pyle"}
-{"avg_rating":1,"created_at":"2024-01-29 18:07:39","emp_contact_number":"(303) 001-6060","emp_role":"Host","employee_id":61,"employee_name":"Alla Rois"}
-{"avg_rating":4,"created_at":"2024-01-29 18:09:27","emp_contact_number":"(410) 221-1161","emp_role":"Manager","employee_id":62,"employee_name":"Hadleigh Turtle"}
-{"avg_rating":4,"created_at":"2024-01-29 18:14:38","emp_contact_number":"(202) 803-9769","emp_role":"Chef","employee_id":63,"employee_name":"Phebe Neem"}
-{"avg_rating":3,"created_at":"2024-01-29 18:23:23","emp_contact_number":"(806) 729-6682","emp_role":"Delivery Person","employee_id":64,"employee_name":"Eloise Nendick"}
-{"avg_rating":2,"created_at":"2024-01-29 18:32:33","emp_contact_number":"(979) 479-5052","emp_role":"Cashier","employee_id":65,"employee_name":"Blondie Sasser"}
-{"avg_rating":2,"created_at":"2024-01-29 18:34:00","emp_contact_number":"(303) 331-5340","emp_role":"Sous Chef","employee_id":66,"employee_name":"Halley Edwinson"}
-{"avg_rating":2,"created_at":"2024-01-29 18:41:45","emp_contact_number":"(501) 695-8914","emp_role":"Prep Cook","employee_id":67,"employee_name":"Pip Trussler"}
-{"avg_rating":3,"created_at":"2024-01-29 18:49:53","emp_contact_number":"(614) 186-4660","emp_role":"Waiter","employee_id":68,"employee_name":"Lynne Filip"}
-{"avg_rating":1,"created_at":"2024-01-29 18:53:00","emp_contact_number":"(918) 454-4647","emp_role":"Barista","employee_id":69,"employee_name":"Walther Hallows"}
-{"avg_rating":0,"created_at":"2024-01-29 18:57:34","emp_contact_number":"(319) 510-1760","emp_role":"Host","employee_id":70,"employee_name":"Corbin Trowsdale"}
-{"avg_rating":3,"created_at":"2024-01-29 19:01:21","emp_contact_number":"(303) 319-9496","emp_role":"Event Coordinator","employee_id":71,"employee_name":"Andrew Franchyonok"}
-{"avg_rating":1,"created_at":"2024-01-29 19:10:28","emp_contact_number":"(925) 963-5405","emp_role":"Receptionist","employee_id":72,"employee_name":"Nathanael Meynell"}
-{"avg_rating":1,"created_at":"2024-01-29 19:16:57","emp_contact_number":"(320) 367-5567","emp_role":"Barista","employee_id":73,"employee_name":"Rosamond Sawrey"}
-{"avg_rating":3,"created_at":"2024-01-29 19:22:10","emp_contact_number":"(724) 763-5358","emp_role":"Pastry Chef","employee_id":74,"employee_name":"Bessy Alenov"}
-{"avg_rating":0,"created_at":"2024-01-29 19:31:46","emp_contact_number":"(910) 351-1612","emp_role":"Cashier","employee_id":75,"employee_name":"Mikey Briscoe"}
-{"avg_rating":0,"created_at":"2024-01-29 19:40:23","emp_contact_number":"(716) 273-7457","emp_role":"Sommelier","employee_id":76,"employee_name":"Eileen Pickering"}
-{"avg_rating":1,"created_at":"2024-01-29 19:45:24","emp_contact_number":"(205) 687-7143","emp_role":"Kitchen Porter","employee_id":77,"employee_name":"Joyann Jirousek"}
-{"avg_rating":2,"created_at":"2024-01-29 19:50:51","emp_contact_number":"(512) 158-5169","emp_role":"Food Runner","employee_id":78,"employee_name":"Catherin Colam"}
-{"avg_rating":1,"created_at":"2024-01-29 19:52:05","emp_contact_number":"(714) 566-3858","emp_role":"Bartender","employee_id":79,"employee_name":"Dorelia Duell"}
-{"avg_rating":2,"created_at":"2024-01-29 19:58:39","emp_contact_number":"(703) 398-9698","emp_role":"Receptionist","employee_id":80,"employee_name":"Daisi O'Cahsedy"}
-{"avg_rating":1,"created_at":"2024-01-29 20:04:31","emp_contact_number":"(952) 749-4116","emp_role":"Catering Manager","employee_id":81,"employee_name":"Nike Cahey"}
-{"avg_rating":1,"created_at":"2024-01-29 20:13:02","emp_contact_number":"(806) 016-2882","emp_role":"Catering Manager","employee_id":82,"employee_name":"Vanya Udell"}
-{"avg_rating":2,"created_at":"2024-01-29 20:15:45","emp_contact_number":"(212) 570-4950","emp_role":"Host","employee_id":83,"employee_name":"Gradey Borgars"}
-{"avg_rating":1,"created_at":"2024-01-29 20:18:02","emp_contact_number":"(360) 929-0259","emp_role":"Kitchen Porter","employee_id":84,"employee_name":"Ailey Snoding"}
-{"avg_rating":2,"created_at":"2024-01-29 20:25:48","emp_contact_number":"(702) 111-2367","emp_role":"Bartender","employee_id":85,"employee_name":"Asia Dommerque"}
-{"avg_rating":2,"created_at":"2024-01-29 20:33:22","emp_contact_number":"(612) 360-8141","emp_role":"Waiter","employee_id":86,"employee_name":"Zenia Whytock"}
-{"avg_rating":1,"created_at":"2024-01-29 20:37:39","emp_contact_number":"(215) 866-5905","emp_role":"Catering Manager","employee_id":87,"employee_name":"Patrice Chappelle"}
-{"avg_rating":2,"created_at":"2024-01-29 20:42:38","emp_contact_number":"(303) 152-4791","emp_role":"Barista","employee_id":88,"employee_name":"Mandie Pitcaithley"}
-{"avg_rating":0,"created_at":"2024-01-29 20:44:24","emp_contact_number":"(718) 723-5751","emp_role":"Event Coordinator","employee_id":89,"employee_name":"Roderigo Chomley"}
-{"avg_rating":3,"created_at":"2024-01-29 20:47:47","emp_contact_number":"(917) 701-2358","emp_role":"Chef","employee_id":90,"employee_name":"Wilhelm Shawley"}
-{"avg_rating":2,"created_at":"2024-01-29 20:52:46","emp_contact_number":"(505) 107-3894","emp_role":"Catering Manager","employee_id":91,"employee_name":"Marissa Ibeson"}
-{"avg_rating":1,"created_at":"2024-01-29 21:01:25","emp_contact_number":"(504) 316-3472","emp_role":"Event Coordinator","employee_id":92,"employee_name":"Gisele Collier"}
-{"avg_rating":3,"created_at":"2024-01-29 21:05:36","emp_contact_number":"(502) 071-8822","emp_role":"Food Runner","employee_id":93,"employee_name":"Salvatore Rentelll"}
-{"avg_rating":0,"created_at":"2024-01-29 21:15:35","emp_contact_number":"(513) 474-2788","emp_role":"Receptionist","employee_id":94,"employee_name":"Brandice Ledster"}
-{"avg_rating":1,"created_at":"2024-01-29 21:18:20","emp_contact_number":"(503) 077-0838","emp_role":"Maintenance Staff","employee_id":95,"employee_name":"Saxon Stoute"}
-{"avg_rating":2,"created_at":"2024-01-29 21:20:53","emp_contact_number":"(562) 849-7656","emp_role":"Prep Cook","employee_id":96,"employee_name":"Ambrosio Stubbley"}
-{"avg_rating":0,"created_at":"2024-01-29 21:21:57","emp_contact_number":"(817) 465-2603","emp_role":"Delivery Person","employee_id":97,"employee_name":"Lambert Suddock"}
-{"avg_rating":0,"created_at":"2024-01-29 21:29:46","emp_contact_number":"(480) 004-8707","emp_role":"Cashier","employee_id":98,"employee_name":"Clementius Adamini"}
-{"avg_rating":0,"created_at":"2024-01-29 21:33:19","emp_contact_number":"(804) 776-6202","emp_role":"Dishwasher","employee_id":99,"employee_name":"Carmela Klaes"}
-{"avg_rating":0,"created_at":"2024-01-29 21:36:21","emp_contact_number":"(510) 066-3806","emp_role":"Cashier","employee_id":100,"employee_name":"Loise Jewell"}
+{"avg_rating":4,"created_at":"2024-01-29 12:51:07","emp_contact_number":"(907) 466-5641","emp_role":"Bartender","employee_id":1,"employee_name":"Gerri Christer"}
+{"avg_rating":0,"created_at":"2024-01-29 13:00:27","emp_contact_number":"(907) 290-5905","emp_role":"Bartender","employee_id":2,"employee_name":"Simmonds Tomson"}
+{"avg_rating":1,"created_at":"2024-01-29 13:07:17","emp_contact_number":"(907) 226-2199","emp_role":"Chef","employee_id":3,"employee_name":"Dagny Godfree"}
+{"avg_rating":2,"created_at":"2024-01-29 13:12:53","emp_contact_number":"(907) 926-9904","emp_role":"Delivery","employee_id":4,"employee_name":"Min Border"}
+{"avg_rating":3,"created_at":"2024-01-29 13:16:25","emp_contact_number":"(907) 606-9072","emp_role":"Cleaner","employee_id":5,"employee_name":"Harald Singers"}
+{"avg_rating":1,"created_at":"2024-01-29 13:23:51","emp_contact_number":"(907) 269-3987","emp_role":"Host","employee_id":6,"employee_name":"Collette Toffts"}
+{"avg_rating":1,"created_at":"2024-01-29 13:27:02","emp_contact_number":"(907) 859-5109","emp_role":"Reception","employee_id":7,"employee_name":"Stefa Maiklem"}
+{"avg_rating":1,"created_at":"2024-01-29 13:36:09","emp_contact_number":"(907) 358-9960","emp_role":"Dishwasher","employee_id":8,"employee_name":"Rance Lochhead"}
+{"avg_rating":0,"created_at":"2024-01-29 13:43:31","emp_contact_number":"(256) 496-1881","emp_role":"Security","employee_id":9,"employee_name":"Immanuel O'Deegan"}
+{"avg_rating":3,"created_at":"2024-01-29 13:50:11","emp_contact_number":"(205) 438-8386","emp_role":"Sommelier","employee_id":10,"employee_name":"Leslie Fotheringham"}
+{"avg_rating":0,"created_at":"2024-01-29 13:51:34","emp_contact_number":"(205) 516-7860","emp_role":"Chef","employee_id":11,"employee_name":"Cyrus Cromack"}
+{"avg_rating":4,"created_at":"2024-01-29 14:01:18","emp_contact_number":"(205) 714-4507","emp_role":"Cleaner","employee_id":12,"employee_name":"Catharine Riding"}
+{"avg_rating":1,"created_at":"2024-01-29 14:02:59","emp_contact_number":"(205) 874-1875","emp_role":"Reception","employee_id":13,"employee_name":"Nicoli Benallack"}
+{"avg_rating":0,"created_at":"2024-01-29 14:05:43","emp_contact_number":"(205) 064-1794","emp_role":"Cleaner","employee_id":14,"employee_name":"Lezley Bootell"}
+{"avg_rating":1,"created_at":"2024-01-29 14:10:20","emp_contact_number":"(205) 639-6256","emp_role":"Host","employee_id":15,"employee_name":"Dolli Laughren"}
+{"avg_rating":4,"created_at":"2024-01-29 14:11:30","emp_contact_number":"(205) 320-1402","emp_role":"Dishwasher","employee_id":16,"employee_name":"Elvera Laborde"}
+{"avg_rating":0,"created_at":"2024-01-29 14:17:35","emp_contact_number":"(205) 266-6269","emp_role":"Security","employee_id":17,"employee_name":"Flin McMillan"}
+{"avg_rating":1,"created_at":"2024-01-29 14:23:05","emp_contact_number":"(205) 882-9312","emp_role":"Sous Chef","employee_id":18,"employee_name":"Amalita Spolton"}
+{"avg_rating":1,"created_at":"2024-01-29 14:28:32","emp_contact_number":"(205) 108-3867","emp_role":"Cashier","employee_id":19,"employee_name":"Oates Diggens"}
+{"avg_rating":1,"created_at":"2024-01-29 14:30:01","emp_contact_number":"(205) 301-9391","emp_role":"Cleaner","employee_id":20,"employee_name":"Alberik Marriage"}
+{"avg_rating":2,"created_at":"2024-01-29 14:37:14","emp_contact_number":"(205) 629-3993","emp_role":"Reception","employee_id":21,"employee_name":"Malanie Ernke"}
+{"avg_rating":0,"created_at":"2024-01-29 14:46:59","emp_contact_number":"(205) 275-0629","emp_role":"Sommelier","employee_id":22,"employee_name":"Cristie McInnerny"}
+{"avg_rating":0,"created_at":"2024-01-29 14:53:22","emp_contact_number":"(205) 241-1918","emp_role":"Cashier","employee_id":23,"employee_name":"Carline Kaesmans"}
+{"avg_rating":3,"created_at":"2024-01-29 15:00:03","emp_contact_number":"(205) 385-1787","emp_role":"Chef","employee_id":24,"employee_name":"Lynelle Carson"}
+{"avg_rating":4,"created_at":"2024-01-29 15:08:02","emp_contact_number":"(256) 690-1887","emp_role":"Pastry Chef","employee_id":25,"employee_name":"Ira Bennetto"}
+{"avg_rating":1,"created_at":"2024-01-29 15:10:28","emp_contact_number":"(256) 747-0650","emp_role":"Security","employee_id":26,"employee_name":"Lombard Isac"}
+{"avg_rating":3,"created_at":"2024-01-29 15:15:15","emp_contact_number":"(256) 877-9517","emp_role":"Waiter","employee_id":27,"employee_name":"Lea Dimond"}
+{"avg_rating":4,"created_at":"2024-01-29 15:17:23","emp_contact_number":"(256) 270-6104","emp_role":"Host","employee_id":28,"employee_name":"Vanni Alderwick"}
+{"avg_rating":1,"created_at":"2024-01-29 15:25:27","emp_contact_number":"(256) 517-3042","emp_role":"Host","employee_id":29,"employee_name":"Connor Fairbard"}
+{"avg_rating":0,"created_at":"2024-01-29 15:27:11","emp_contact_number":"(251) 326-0025","emp_role":"Chef","employee_id":30,"employee_name":"Obie Ainley"}
+{"avg_rating":3,"created_at":"2024-01-29 15:36:38","emp_contact_number":"(251) 788-7359","emp_role":"Waiter","employee_id":31,"employee_name":"Ava Cazalet"}
+{"avg_rating":0,"created_at":"2024-01-29 15:43:27","emp_contact_number":"(251) 784-7566","emp_role":"Chef","employee_id":32,"employee_name":"Kerrill Saphin"}
+{"avg_rating":4,"created_at":"2024-01-29 15:47:46","emp_contact_number":"(251) 748-6605","emp_role":"Sous Chef","employee_id":33,"employee_name":"Margarita Lukas"}
+{"avg_rating":4,"created_at":"2024-01-29 15:55:03","emp_contact_number":"(251) 231-3200","emp_role":"Sous Chef","employee_id":34,"employee_name":"Elbertina Dorricott"}
+{"avg_rating":1,"created_at":"2024-01-29 15:59:42","emp_contact_number":"(251) 698-8448","emp_role":"Reception","employee_id":35,"employee_name":"Letitia Hendrick"}
+{"avg_rating":2,"created_at":"2024-01-29 16:07:35","emp_contact_number":"(251) 692-1123","emp_role":"Sous Chef","employee_id":36,"employee_name":"Nevil Lambourne"}
+{"avg_rating":2,"created_at":"2024-01-29 16:12:59","emp_contact_number":"(251) 486-7911","emp_role":"Sommelier","employee_id":37,"employee_name":"Bendick Ryman"}
+{"avg_rating":2,"created_at":"2024-01-29 16:19:25","emp_contact_number":"(334) 488-9042","emp_role":"Manager","employee_id":38,"employee_name":"Merle Croutear"}
+{"avg_rating":3,"created_at":"2024-01-29 16:26:44","emp_contact_number":"(334) 779-6530","emp_role":"Cashier","employee_id":39,"employee_name":"Tonye Doveston"}
+{"avg_rating":2,"created_at":"2024-01-29 16:32:08","emp_contact_number":"(334) 872-1034","emp_role":"Security","employee_id":40,"employee_name":"Gregory Renner"}
+{"avg_rating":3,"created_at":"2024-01-29 16:40:33","emp_contact_number":"(334) 298-7689","emp_role":"Manager","employee_id":41,"employee_name":"Ynes Yakubowicz"}
+{"avg_rating":1,"created_at":"2024-01-29 16:43:25","emp_contact_number":"(334) 780-3090","emp_role":"Cashier","employee_id":42,"employee_name":"Virgil Schiersch"}
+{"avg_rating":2,"created_at":"2024-01-29 16:48:04","emp_contact_number":"(334) 623-1888","emp_role":"Reception","employee_id":43,"employee_name":"Marita Jennaroy"}
+{"avg_rating":3,"created_at":"2024-01-29 16:57:37","emp_contact_number":"(334) 474-9161","emp_role":"Sommelier","employee_id":44,"employee_name":"Florance McCoy"}
+{"avg_rating":4,"created_at":"2024-01-29 17:03:05","emp_contact_number":"(334) 416-9307","emp_role":"Cleaner","employee_id":45,"employee_name":"Bobbi Polle"}
+{"avg_rating":0,"created_at":"2024-01-29 17:11:42","emp_contact_number":"(205) 556-9518","emp_role":"Dishwasher","employee_id":46,"employee_name":"Atalanta Rigglesford"}
+{"avg_rating":3,"created_at":"2024-01-29 17:19:03","emp_contact_number":"(205) 486-9577","emp_role":"Kitchen Porter","employee_id":47,"employee_name":"Lily Whitlam"}
+{"avg_rating":3,"created_at":"2024-01-29 17:24:40","emp_contact_number":"(479) 963-4010","emp_role":"Cashier","employee_id":48,"employee_name":"Joe Gatland"}
+{"avg_rating":3,"created_at":"2024-01-29 17:25:46","emp_contact_number":"(479) 677-8930","emp_role":"Host","employee_id":49,"employee_name":"Xylina Croad"}
+{"avg_rating":3,"created_at":"2024-01-29 17:29:59","emp_contact_number":"(501) 449-1881","emp_role":"Waiter","employee_id":50,"employee_name":"Humphrey Ennor"}
+{"avg_rating":4,"created_at":"2024-01-29 17:36:37","emp_contact_number":"(501) 452-2661","emp_role":"Pastry Chef","employee_id":51,"employee_name":"Yalonda Balharry"}
+{"avg_rating":2,"created_at":"2024-01-29 17:40:29","emp_contact_number":"(501) 915-8996","emp_role":"Cashier","employee_id":52,"employee_name":"Tymon Malling"}
+{"avg_rating":0,"created_at":"2024-01-29 17:42:32","emp_contact_number":"(501) 513-8655","emp_role":"Sous Chef","employee_id":53,"employee_name":"Pammy Sibbet"}
+{"avg_rating":3,"created_at":"2024-01-29 17:44:41","emp_contact_number":"(501) 483-2789","emp_role":"Sommelier","employee_id":54,"employee_name":"Edgardo Heersema"}
+{"avg_rating":1,"created_at":"2024-01-29 17:50:25","emp_contact_number":"(501) 845-9281","emp_role":"Dishwasher","employee_id":55,"employee_name":"Allayne Whimp"}
+{"avg_rating":4,"created_at":"2024-01-29 18:00:04","emp_contact_number":"(501) 840-3128","emp_role":"Reception","employee_id":56,"employee_name":"Modestine Commings"}
+{"avg_rating":3,"created_at":"2024-01-29 18:01:35","emp_contact_number":"(501) 590-9048","emp_role":"Host","employee_id":57,"employee_name":"Cullie Penddreth"}
+{"avg_rating":2,"created_at":"2024-01-29 18:08:30","emp_contact_number":"(480) 265-8137","emp_role":"Delivery","employee_id":58,"employee_name":"Garvy Cockayme"}
+{"avg_rating":4,"created_at":"2024-01-29 18:17:36","emp_contact_number":"(480) 677-7656","emp_role":"Manager","employee_id":59,"employee_name":"Cross Boman"}
+{"avg_rating":2,"created_at":"2024-01-29 18:23:29","emp_contact_number":"(602) 949-3490","emp_role":"Manager","employee_id":60,"employee_name":"Sigismundo Churchard"}
+{"avg_rating":0,"created_at":"2024-01-29 18:32:59","emp_contact_number":"(623) 533-9203","emp_role":"Host","employee_id":61,"employee_name":"Avictor Sculpher"}
+{"avg_rating":4,"created_at":"2024-01-29 18:37:06","emp_contact_number":"(602) 443-8295","emp_role":"Sommelier","employee_id":62,"employee_name":"Pepe Mocker"}
+{"avg_rating":1,"created_at":"2024-01-29 18:38:06","emp_contact_number":"(602) 907-8457","emp_role":"Sommelier","employee_id":63,"employee_name":"Dallas Bales"}
+{"avg_rating":4,"created_at":"2024-01-29 18:42:40","emp_contact_number":"(602) 799-5611","emp_role":"Manager","employee_id":64,"employee_name":"Gustave Stalf"}
+{"avg_rating":0,"created_at":"2024-01-29 18:47:42","emp_contact_number":"(602) 562-9443","emp_role":"Chef","employee_id":65,"employee_name":"Lynelle Jovanovic"}
+{"avg_rating":2,"created_at":"2024-01-29 18:52:18","emp_contact_number":"(602) 752-2932","emp_role":"Reception","employee_id":66,"employee_name":"Bat Chicchetto"}
+{"avg_rating":0,"created_at":"2024-01-29 19:00:59","emp_contact_number":"(480) 281-4684","emp_role":"Reception","employee_id":67,"employee_name":"Inness Chaperlin"}
+{"avg_rating":4,"created_at":"2024-01-29 19:05:12","emp_contact_number":"(602) 116-9924","emp_role":"Manager","employee_id":68,"employee_name":"Barth Cansdale"}
+{"avg_rating":4,"created_at":"2024-01-29 19:06:16","emp_contact_number":"(480) 387-0453","emp_role":"Kitchen Porter","employee_id":69,"employee_name":"Clayton Robken"}
+{"avg_rating":3,"created_at":"2024-01-29 19:14:55","emp_contact_number":"(623) 537-3430","emp_role":"Host","employee_id":70,"employee_name":"Bradly Varfolomeev"}
+{"avg_rating":0,"created_at":"2024-01-29 19:23:41","emp_contact_number":"(623) 830-7966","emp_role":"Kitchen Porter","employee_id":71,"employee_name":"Orsola Pane"}
+{"avg_rating":1,"created_at":"2024-01-29 19:27:50","emp_contact_number":"(602) 907-8360","emp_role":"Delivery","employee_id":72,"employee_name":"Aila Yetton"}
+{"avg_rating":3,"created_at":"2024-01-29 19:33:40","emp_contact_number":"(602) 501-6345","emp_role":"Waiter","employee_id":73,"employee_name":"Rafe Prise"}
+{"avg_rating":2,"created_at":"2024-01-29 19:34:43","emp_contact_number":"(480) 971-3270","emp_role":"Host","employee_id":74,"employee_name":"Hillary Creasy"}
+{"avg_rating":0,"created_at":"2024-01-29 19:40:34","emp_contact_number":"(480) 790-8094","emp_role":"Cashier","employee_id":75,"employee_name":"Raffaello McClory"}
+{"avg_rating":1,"created_at":"2024-01-29 19:43:15","emp_contact_number":"(602) 169-2952","emp_role":"Pastry Chef","employee_id":76,"employee_name":"Thebault Simcock"}
+{"avg_rating":4,"created_at":"2024-01-29 19:45:31","emp_contact_number":"(602) 260-8095","emp_role":"Cleaner","employee_id":77,"employee_name":"Nichol Yewdale"}
+{"avg_rating":0,"created_at":"2024-01-29 19:52:30","emp_contact_number":"(602) 696-7960","emp_role":"Kitchen Porter","employee_id":78,"employee_name":"Ange Burdett"}
+{"avg_rating":0,"created_at":"2024-01-29 20:00:06","emp_contact_number":"(602) 610-0788","emp_role":"Dishwasher","employee_id":79,"employee_name":"Heinrick Hailston"}
+{"avg_rating":0,"created_at":"2024-01-29 20:09:58","emp_contact_number":"(602) 593-0155","emp_role":"Cashier","employee_id":80,"employee_name":"Olympia Ryrie"}
+{"avg_rating":2,"created_at":"2024-01-29 20:19:17","emp_contact_number":"(602) 592-3183","emp_role":"Pastry Chef","employee_id":81,"employee_name":"Jefferson Brunn"}
+{"avg_rating":0,"created_at":"2024-01-29 20:24:54","emp_contact_number":"(602) 417-5998","emp_role":"Bartender","employee_id":82,"employee_name":"Gail Padginton"}
+{"avg_rating":3,"created_at":"2024-01-29 20:29:26","emp_contact_number":"(928) 730-6885","emp_role":"Kitchen Porter","employee_id":83,"employee_name":"Zacherie Notley"}
+{"avg_rating":4,"created_at":"2024-01-29 20:38:08","emp_contact_number":"(602) 350-5467","emp_role":"Manager","employee_id":84,"employee_name":"Wylie Kinnane"}
+{"avg_rating":1,"created_at":"2024-01-29 20:47:54","emp_contact_number":"(480) 224-0862","emp_role":"Kitchen Porter","employee_id":85,"employee_name":"Dorena Hughman"}
+{"avg_rating":3,"created_at":"2024-01-29 20:57:37","emp_contact_number":"(480) 303-7620","emp_role":"Sous Chef","employee_id":86,"employee_name":"Chrysa Allder"}
+{"avg_rating":1,"created_at":"2024-01-29 21:03:13","emp_contact_number":"(480) 610-3775","emp_role":"Cleaner","employee_id":87,"employee_name":"Benjie Bond"}
+{"avg_rating":4,"created_at":"2024-01-29 21:08:03","emp_contact_number":"(520) 448-7320","emp_role":"Sous Chef","employee_id":88,"employee_name":"Lida Cato"}
+{"avg_rating":4,"created_at":"2024-01-29 21:12:32","emp_contact_number":"(520) 344-5487","emp_role":"Dishwasher","employee_id":89,"employee_name":"Price Petrussi"}
+{"avg_rating":2,"created_at":"2024-01-29 21:14:21","emp_contact_number":"(520) 096-3087","emp_role":"Dishwasher","employee_id":90,"employee_name":"Gallard Magowan"}
+{"avg_rating":2,"created_at":"2024-01-29 21:19:58","emp_contact_number":"(520) 093-4755","emp_role":"Sommelier","employee_id":91,"employee_name":"Cathyleen Regardsoe"}
+{"avg_rating":4,"created_at":"2024-01-29 21:27:30","emp_contact_number":"(520) 612-7200","emp_role":"Sommelier","employee_id":92,"employee_name":"Stanleigh Atchly"}
+{"avg_rating":2,"created_at":"2024-01-29 21:35:33","emp_contact_number":"(520) 161-1965","emp_role":"Waiter","employee_id":93,"employee_name":"Charley Hemphill"}
+{"avg_rating":0,"created_at":"2024-01-29 21:42:20","emp_contact_number":"(520) 774-5778","emp_role":"Sommelier","employee_id":94,"employee_name":"Kalvin Filinkov"}
+{"avg_rating":2,"created_at":"2024-01-29 21:43:39","emp_contact_number":"(520) 768-4584","emp_role":"Delivery","employee_id":95,"employee_name":"Christa Scothron"}
+{"avg_rating":4,"created_at":"2024-01-29 21:52:11","emp_contact_number":"(520) 671-5183","emp_role":"Pastry Chef","employee_id":96,"employee_name":"Laurens Borkin"}
+{"avg_rating":1,"created_at":"2024-01-29 21:59:45","emp_contact_number":"(520) 939-9688","emp_role":"Cashier","employee_id":97,"employee_name":"Sasha Colenutt"}
+{"avg_rating":3,"created_at":"2024-01-29 22:03:39","emp_contact_number":"(626) 255-2970","emp_role":"Cashier","employee_id":98,"employee_name":"Rosette Nason"}
+{"avg_rating":3,"created_at":"2024-01-29 22:10:39","emp_contact_number":"(949) 516-3283","emp_role":"Pastry Chef","employee_id":99,"employee_name":"Blanca Gilbody"}
+{"avg_rating":2,"created_at":"2024-01-29 22:18:49","emp_contact_number":"(714) 431-3955","emp_role":"Chef","employee_id":100,"employee_name":"Harriot Rispen"}
